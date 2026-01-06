@@ -3,6 +3,14 @@ PRODID:-//trevize.net//NONSGML CINEMATEK calendar//EN
 VERSION:2.0
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
+UID:49bee9da-1903-4c3f-acca-34a870897705
+DTSTAMP:20260106T191043Z
+DTSTART:20251201T180000Z
+DTEND:20251201T180000Z
+SUMMARY:Hilde Warren und der Tod
+DESCRIPTION:Hilde Warren et la Mort ⁄ Hilde Warren und der Tod\nDirectors: Joe May, Allemagne 1918\nCast: Mia May, Bruno Kastner, Georg John\n[PLATEAU] NB ⁄ 66' ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2025-12-01-18-00/hilde-warren-und-der-tod
+END:VEVENT
+BEGIN:VEVENT
 UID:1487f916-ff73-4e33-b8a2-dfa05c03f9cc
 DTSTAMP:20260106T191043Z
 DTSTART:20251201T190000Z
