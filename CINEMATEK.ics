@@ -125,12 +125,12 @@ SUMMARY:Das Boot
 DESCRIPTION:Le Bateau ⁄ Das Boot\nDirectors: Wolfgang Petersen, RFA 1981\nCast: Jurgen Prochnow, Herbert Grönemeyer, Klaus Wennemann\n[LEDOUX] couleur ⁄ 148' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-03-21-00/das-boot
 END:VEVENT
 BEGIN:VEVENT
-UID:ed4eab9d-8939-4432-86a1-a5d93755f184
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:3f955e12-b4be-441e-88b0-4cb6184596c1
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260904T180000
 DTEND;TZID=Europe/Brussels:20260904T180000
 SUMMARY:Sommarnattens leende
-DESCRIPTION:Sourires d’une nuit d’été ⁄ Glimlach van een zomernacht ⁄ Sommarnattens leende\nDirectors: Ingmar Bergman, Suède 1955\nCast: Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson\n[PLATEAU] NB ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-04-18-00/sommarnattens-leende
+DESCRIPTION:Glimlach van een zomernacht ⁄ Sourires d’une nuit d’été ⁄ Sommarnattens leende\nDirectors: Ingmar Bergman, Suède 1955\nCast: Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson\n[PLATEAU] NB ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-04-18-00/sommarnattens-leende
 END:VEVENT
 BEGIN:VEVENT
 UID:0214f0d8-2fa6-44b3-be7c-47b54646674b
@@ -245,20 +245,20 @@ SUMMARY:The Jazz Singer
 DESCRIPTION:Le Chanteur de jazz ⁄ The Jazz Singer\nDirectors: Alan Crosland, USA 1927\nCast: Al Jolson, May McAvoy, Warner Oland\n[PLATEAU] NB ⁄ 88' ⁄ TIT: EN ⁄ ST\nhttps://cinematek.be/2026-09-07-18-00/the-jazz-singer
 END:VEVENT
 BEGIN:VEVENT
-UID:fd18d58a-06ca-42b2-bf99-ada4e5931583
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:b34b2ac3-a4fb-4e37-98fe-ca416324be1e
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260907T190000
 DTEND;TZID=Europe/Brussels:20260907T190000
 SUMMARY:Halloween
-DESCRIPTION:La Nuit des masques ⁄ De nacht van de griezels ⁄ Halloween\nDirectors: John Carpenter, USA 1978\nCast: Jamie Lee Curtis, Donald Pleasence, P.J. Soles\n[LEDOUX] couleur ⁄ 89' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-07-19-00/halloween
+DESCRIPTION:De nacht van de griezels ⁄ La Nuit des masques ⁄ Halloween\nDirectors: John Carpenter, USA 1978\nCast: Jamie Lee Curtis, Donald Pleasence, P.J. Soles\n[LEDOUX] couleur ⁄ 89' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-07-19-00/halloween
 END:VEVENT
 BEGIN:VEVENT
-UID:510e1ec1-f925-49e2-ba39-9a96d6805f2b
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:8bb679d3-52d3-43f4-b02c-0898086ba328
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260907T200000
 DTEND;TZID=Europe/Brussels:20260907T200000
 SUMMARY:Sommarnattens leende
-DESCRIPTION:Sourires d’une nuit d’été ⁄ Glimlach van een zomernacht ⁄ Sommarnattens leende\nDirectors: Ingmar Bergman, Suède 1955\nCast: Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson\n[PLATEAU] NB ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-07-20-00/sommarnattens-leende
+DESCRIPTION:Glimlach van een zomernacht ⁄ Sourires d’une nuit d’été ⁄ Sommarnattens leende\nDirectors: Ingmar Bergman, Suède 1955\nCast: Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson\n[PLATEAU] NB ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-07-20-00/sommarnattens-leende
 END:VEVENT
 BEGIN:VEVENT
 UID:803cc256-9332-4847-9da3-3a7ce0d05696
@@ -381,12 +381,12 @@ SUMMARY:Aleksandr Nevskiy
 DESCRIPTION:Alexandre Nevski ⁄ Aleksandr Nevskiy\nDirectors: Sergei Mikhailovich Eisenstein, USSR 1938\nCast: Nikolai Cherkasov, Nikolai Okhlopkov, Andrei Abrikosov\n[PLATEAU] NB ⁄ 107' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-11-18-00/aleksandr-nevskiy
 END:VEVENT
 BEGIN:VEVENT
-UID:785a55f7-db3c-408a-aa4f-a7556f8bfba5
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:d6a789a7-37ed-4841-a5ae-e5497df6623a
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260911T190000
 DTEND;TZID=Europe/Brussels:20260911T190000
 SUMMARY:Galaxy of Terror
-DESCRIPTION:La Galaxie de la terreur ⁄ Griezel in de cosmos ⁄ Galaxy of Terror\nDirectors: Bruce D. Clark, USA 1981\nCast: Edward Albert, Erin Moran, Ray Walston\n[LEDOUX] couleur ⁄ 81' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-11-19-00/galaxy-of-terror
+DESCRIPTION:Griezel in de cosmos ⁄ La Galaxie de la terreur ⁄ Galaxy of Terror\nDirectors: Bruce D. Clark, USA 1981\nCast: Edward Albert, Erin Moran, Ray Walston\n[LEDOUX] couleur ⁄ 81' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-11-19-00/galaxy-of-terror
 END:VEVENT
 BEGIN:VEVENT
 UID:58e54853-aaa0-4e58-9c2d-a8b09b0fa2cc
@@ -445,12 +445,12 @@ SUMMARY:Kozijat rog
 DESCRIPTION:La Corne de chèvre ⁄ The Goat Horn ⁄ Kozijat rog\nDirectors: Metodi Andonov, Bulgarie 1972\nCast: Katya Paskaleva, Anton Gorchev, Milen Penev\n[LEDOUX] NB ⁄ 93' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-12-21-30/kozijat-rog
 END:VEVENT
 BEGIN:VEVENT
-UID:d1735a2d-eaea-49c6-b03e-24218e56b8ca
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:87ded683-c6bb-4cba-9dcc-bccc4ab8e354
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260913T150000
 DTEND;TZID=Europe/Brussels:20260913T150000
-SUMMARY:The 5000 Fingers Of Dr. T
-DESCRIPTION:Les 5000 Doigts du Dr. T ⁄ The 5000 Fingers Of Dr. T\nDirectors: Roy W. Rowland, USA 1953\nCast: Peter Lind Hayes, Mary Healy, Hans Conried\n[LEDOUX] couleur ⁄ 89' ⁄ ST: NL - FR\nhttps://cinematek.be/2026-09-13-15-00/the-5000-fingers-of-dr-t
+SUMMARY:The 5000 Fingers of Dr. T
+DESCRIPTION:Les 5000 Doigts du Dr. T ⁄ The 5000 Fingers of Dr. T\nDirectors: Roy W. Rowland, USA 1953\nCast: Peter Lind Hayes, Mary Healy, Hans Conried\n[LEDOUX] couleur ⁄ 89' ⁄ ST: NL - FR\nhttps://cinematek.be/2026-09-13-15-00/the-5000-fingers-of-dr-t
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd13eab-4a6d-4765-9c57-f7ffe141528d
@@ -469,12 +469,20 @@ SUMMARY:Les courts des grands II
 DESCRIPTION:Les courts des grands II\nDirectors: Jean-Luc Godard, France 1958\n[PLATEAU] NB ⁄ 13' ⁄ ST: NL\nhttps://cinematek.be/2026-09-13-18-00/les-courts-des-grands-b
 END:VEVENT
 BEGIN:VEVENT
-UID:daadc586-6ed8-47f7-82be-b5a48f540680
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:89ba9cac-b435-4726-b511-cecd92e27e81
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260913T193000
 DTEND;TZID=Europe/Brussels:20260913T193000
 SUMMARY:Zerkalo
-DESCRIPTION:Le Miroir ⁄ De spiegel ⁄ Zerkalo\nDirectors: Andrej Tarkovskij, USSR 1975\nCast: Margarita Terekhova, Filipp Yankovskiy, Ignat Daniltsev\n[LEDOUX] NB + couleur ⁄ 105' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-13-19-30/zerkalo
+DESCRIPTION:De spiegel ⁄ Le Miroir ⁄ Zerkalo\nDirectors: Andrej Tarkovskij, USSR 1975\nCast: Margarita Terekhova, Filipp Yankovskiy, Ignat Daniltsev\n[LEDOUX] NB + couleur ⁄ 105' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-13-19-30/zerkalo
+END:VEVENT
+BEGIN:VEVENT
+UID:b27c52fb-fc5f-4410-8fc6-d23883d1b7f9
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20260913T193000
+DTEND;TZID=Europe/Brussels:20260913T193000
+SUMMARY:Assault on Precinct 13
+DESCRIPTION:Assaut ⁄ Assault on Precinct 13\nDirectors: John Carpenter, USA 1976\nCast: Austin Stoker, Darwin Joston, Laurie Zimmer\n[LEDOUX] couleur ⁄ 91' ⁄ ST: FR\nhttps://cinematek.be/2026-09-13-19-30/13-09-2026-assault-on-precinct-13
 END:VEVENT
 BEGIN:VEVENT
 UID:20f3621c-6729-44b1-a4d7-e39ac7435abc
@@ -541,12 +549,12 @@ SUMMARY:Le Chantier des gosses
 DESCRIPTION:Le Chantier des gosses\nDirectors: Jean Harlez, Belgique 1956\nCast: L. Becker, Suzanne Cognioul, Raymond Coumans\n[LEDOUX] NB ⁄ 83' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-09-15-19-00/le-chantier-des-gosses
 END:VEVENT
 BEGIN:VEVENT
-UID:8c244b51-d879-40c3-a6a1-8562abfbe287
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:b3e6c08c-2767-455f-b21e-151cc0ec9b2e
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260915T200000
 DTEND;TZID=Europe/Brussels:20260915T200000
 SUMMARY:Et revolutionsbryllup
-DESCRIPTION:Un mariage pendant la révolution ⁄ De revolutie en de bruiloft ⁄ Et revolutionsbryllup\nDirectors: August Blom, Danemark 1914\nCast: Philip Bech, Johanne Fritz-Petersen, Volmer Hjorth-Clausen\n[PLATEAU] NB ⁄ 65' ⁄ TIT: DA ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-09-15-20-00/et-revolutionsbryllup
+DESCRIPTION:De revolutie en de bruiloft ⁄ Un mariage pendant la révolution ⁄ Et revolutionsbryllup\nDirectors: August Blom, Danemark 1914\nCast: Philip Bech, Johanne Fritz-Petersen, Volmer Hjorth-Clausen\n[PLATEAU] NB ⁄ 65' ⁄ TIT: DA ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-09-15-20-00/et-revolutionsbryllup
 END:VEVENT
 BEGIN:VEVENT
 UID:e5571920-017e-41b1-8638-db5665f964e3
@@ -557,12 +565,12 @@ SUMMARY:Escape from New York
 DESCRIPTION:New York 1997 ⁄ Escape from New York\nDirectors: John Carpenter, USA, UK 1981\nCast: Kurt Russell, Lee Van Cleef, Ernest Borgnine, Adrienne Barbeau\n[LEDOUX] couleur ⁄ 98' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-15-21-00/escape-from-new-york
 END:VEVENT
 BEGIN:VEVENT
-UID:27bbfabb-fd49-4ce2-8f8f-a80c28de8d80
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:87296e99-af08-4f24-8c97-f16ec1a7b483
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260916T180000
 DTEND;TZID=Europe/Brussels:20260916T180000
 SUMMARY:Sommarnattens leende
-DESCRIPTION:Sourires d’une nuit d’été ⁄ Glimlach van een zomernacht ⁄ Sommarnattens leende\nDirectors: Ingmar Bergman, Suède 1955\nCast: Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson\n[PLATEAU] NB ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-16-18-00/sommarnattens-leende
+DESCRIPTION:Glimlach van een zomernacht ⁄ Sourires d’une nuit d’été ⁄ Sommarnattens leende\nDirectors: Ingmar Bergman, Suède 1955\nCast: Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson\n[PLATEAU] NB ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-16-18-00/sommarnattens-leende
 END:VEVENT
 BEGIN:VEVENT
 UID:1faece8f-9a3a-4015-804a-29d10e20dc43
@@ -597,20 +605,20 @@ SUMMARY:The Misfits
 DESCRIPTION:Les Désaxés ⁄ The Misfits\nDirectors: John Huston, USA 1961\nCast: Clark Gable, Marilyn Monroe, Montgomery Clift\n[LEDOUX] NB ⁄ 124' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-17-15-00/the-misfits
 END:VEVENT
 BEGIN:VEVENT
-UID:076b2859-e186-4f07-81c6-b33619af1010
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:76108873-7b9e-4ad6-baac-7d158d366aa3
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260917T180000
 DTEND;TZID=Europe/Brussels:20260917T180000
 SUMMARY:Det hemmelighedsfulde X
-DESCRIPTION:Le X mysterieux ⁄ De geheimzinnige X ⁄ Det hemmelighedsfulde X\nDirectors: Benjamin Christensen, Danemark 1914\nCast: Benjamin Christensen, Karen Caspersen, Otto Reinwald\n[PLATEAU] NB ⁄ 84' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-09-17-18-00/det-hemmelighedsfulde-x
+DESCRIPTION:De geheimzinnige X ⁄ Le X mysterieux ⁄ Det hemmelighedsfulde X\nDirectors: Benjamin Christensen, Danemark 1914\nCast: Benjamin Christensen, Karen Caspersen, Otto Reinwald\n[PLATEAU] NB ⁄ 84' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-09-17-18-00/det-hemmelighedsfulde-x
 END:VEVENT
 BEGIN:VEVENT
-UID:8b5635c0-523c-4caf-85d6-89343d2374e9
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:44280256-151f-46f4-9de5-ea356f4a6d0f
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260917T190000
 DTEND;TZID=Europe/Brussels:20260917T190000
-SUMMARY:Reflections on Lionel Rogosin & The New American Cinema with Martin Scorsese and Michael Rogosin
-DESCRIPTION:Reflections on Lionel Rogosin & The New American Cinema with Martin Scorsese and Michael Rogosin\nDirectors: Michael Ariel Rogosin, USA 2011\n[LEDOUX] couleur ⁄ 6' ⁄ ST: FR\nhttps://cinematek.be/2026-09-17-19-00/lionel-rogosin-compil-1
+SUMMARY:On the Bowery
+DESCRIPTION:On the Bowery\nDirectors: Lionel Rogosin, USA 1956\n[LEDOUX] NB ⁄ 65' ⁄ ST: FR\nhttps://cinematek.be/2026-09-17-19-00/lionel-rogosin-compil-1
 END:VEVENT
 BEGIN:VEVENT
 UID:68fb5e19-086b-4236-b1d1-73f8495b0821
@@ -645,12 +653,20 @@ SUMMARY:Les courts des grands III
 DESCRIPTION:Les courts des grands III\nDirectors: Roberto Rossellini, Italie 1939\n[PLATEAU] NB ⁄ 11' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-09-18-20-00/les-courts-des-grands-c
 END:VEVENT
 BEGIN:VEVENT
-UID:28ddcf0a-cd46-4489-87ab-da4e84c16119
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:42604bff-a103-454a-8cd3-b1e1862f5bab
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20260918T210000
+DTEND;TZID=Europe/Brussels:20260918T210000
+SUMMARY:Halloween
+DESCRIPTION:De nacht van de griezels ⁄ La Nuit des masques ⁄ Halloween\nDirectors: John Carpenter, USA 1978\nCast: Jamie Lee Curtis, Donald Pleasence, P.J. Soles\n[LEDOUX] couleur ⁄ 89' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-18-21-00/18-09-2026-halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:2738356d-2b0d-47c1-b85c-ffa9e253d0b9
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260918T211500
 DTEND;TZID=Europe/Brussels:20260918T211500
 SUMMARY:Zerkalo
-DESCRIPTION:Le Miroir ⁄ De spiegel ⁄ Zerkalo\nDirectors: Andrej Tarkovskij, USSR 1975\nCast: Margarita Terekhova, Filipp Yankovskiy, Ignat Daniltsev\n[LEDOUX] NB + couleur ⁄ 105' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-18-21-15/zerkalo
+DESCRIPTION:De spiegel ⁄ Le Miroir ⁄ Zerkalo\nDirectors: Andrej Tarkovskij, USSR 1975\nCast: Margarita Terekhova, Filipp Yankovskiy, Ignat Daniltsev\n[LEDOUX] NB + couleur ⁄ 105' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-18-21-15/zerkalo
 END:VEVENT
 BEGIN:VEVENT
 UID:71572614-1932-44ad-81a0-9890b277a4c7
@@ -677,12 +693,12 @@ SUMMARY:Fremde Haut
 DESCRIPTION:Unveiled ⁄ Fremde Haut\nDirectors: Angelina Maccarone, Allemagne, Autriche 2005\nCast: Jasmin Tabatabai, Navid Navid, Mossadegh Hamid\n[LEDOUX] couleur ⁄ 100' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-19-19-00/fremde-haut
 END:VEVENT
 BEGIN:VEVENT
-UID:f15c86b4-d70a-4699-a8f6-d037e795edcf
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:623cd1e2-52bf-4ba0-be1c-f6070a5bb74f
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260919T201500
 DTEND;TZID=Europe/Brussels:20260919T201500
 SUMMARY:Det hemmelighedsfulde X
-DESCRIPTION:Le X mysterieux ⁄ De geheimzinnige X ⁄ Det hemmelighedsfulde X\nDirectors: Benjamin Christensen, Danemark 1914\nCast: Benjamin Christensen, Karen Caspersen, Otto Reinwald\n[PLATEAU] NB ⁄ 84' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-09-19-20-15/det-hemmelighedsfulde-x
+DESCRIPTION:De geheimzinnige X ⁄ Le X mysterieux ⁄ Det hemmelighedsfulde X\nDirectors: Benjamin Christensen, Danemark 1914\nCast: Benjamin Christensen, Karen Caspersen, Otto Reinwald\n[PLATEAU] NB ⁄ 84' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-09-19-20-15/det-hemmelighedsfulde-x
 END:VEVENT
 BEGIN:VEVENT
 UID:bac2f6b7-68c2-4a2c-b6c5-104d4ae7708e
@@ -693,12 +709,12 @@ SUMMARY:Per qualche dollaro in più
 DESCRIPTION:Et pour quelques dollars de plus ⁄ For a Few Dollars More ⁄ Per qualche dollaro in più\nDirectors: Sergio Leone, Italie, Espagne, RFA 1965\nCast: Clint Eastwood, Lee Van Cleef, Gian Maria Volont\n[LEDOUX] couleur ⁄ 131' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-19-21-30/per-qualche-dollaro-in-piu
 END:VEVENT
 BEGIN:VEVENT
-UID:5acd93d4-5768-421d-b63a-ec76292f7657
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:e9ae3469-25aa-4699-97b6-487569a48dbc
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260920T150000
 DTEND;TZID=Europe/Brussels:20260920T150000
 SUMMARY:A Bug’s Life
-DESCRIPTION:1001 Pattes ⁄ Een luizenleven ⁄ A Bug’s Life\nDirectors: John Lasseter, USA 1998\n[LEDOUX] couleur ⁄ 94' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-20-15-00/a-bugs-life
+DESCRIPTION:Een luizenleven ⁄ 1001 Pattes ⁄ A Bug’s Life\nDirectors: John Lasseter, USA 1998\n[LEDOUX] couleur ⁄ 94' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-20-15-00/a-bugs-life
 END:VEVENT
 BEGIN:VEVENT
 UID:de8aa440-bbfe-4a73-a2b1-4d9f71e26d90
@@ -709,12 +725,12 @@ SUMMARY:The Untouchables
 DESCRIPTION:Les Incorruptibles ⁄ The Untouchables\nDirectors: Brian De Palma, USA 1987\nCast: Kevin Costner, Sean Connery, Robert De Niro\n[LEDOUX] couleur ⁄ 119' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-20-17-00/the-untouchables
 END:VEVENT
 BEGIN:VEVENT
-UID:eeb62757-181d-402b-b3d8-46468cd5dd49
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:d1be38e9-760b-44cc-8f2e-ae87a62187f6
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260920T180000
 DTEND;TZID=Europe/Brussels:20260920T180000
 SUMMARY:Sommarnattens leende
-DESCRIPTION:Sourires d’une nuit d’été ⁄ Glimlach van een zomernacht ⁄ Sommarnattens leende\nDirectors: Ingmar Bergman, Suède 1955\nCast: Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson\n[PLATEAU] NB ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-20-18-00/sommarnattens-leende
+DESCRIPTION:Glimlach van een zomernacht ⁄ Sourires d’une nuit d’été ⁄ Sommarnattens leende\nDirectors: Ingmar Bergman, Suède 1955\nCast: Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson\n[PLATEAU] NB ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-20-18-00/sommarnattens-leende
 END:VEVENT
 BEGIN:VEVENT
 UID:7758f3e6-8eb2-47ff-9a35-decb6ac16b41
@@ -773,12 +789,12 @@ SUMMARY:Christine
 DESCRIPTION:Christine\nDirectors: John Carpenter, USA 1983\nCast: Keith Gordon, John Stockwell, Alexandra Paul\n[LEDOUX] couleur ⁄ 109' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-21-21-00/christine
 END:VEVENT
 BEGIN:VEVENT
-UID:1811caa1-ef43-4030-9b7e-4821e3a2c925
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:942e4541-9f7f-4f2b-b5a1-a0de41d76007
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260922T180000
 DTEND;TZID=Europe/Brussels:20260922T180000
 SUMMARY:Et revolutionsbryllup
-DESCRIPTION:Un mariage pendant la révolution ⁄ De revolutie en de bruiloft ⁄ Et revolutionsbryllup\nDirectors: August Blom, Danemark 1914\nCast: Philip Bech, Johanne Fritz-Petersen, Volmer Hjorth-Clausen\n[PLATEAU] NB ⁄ 65' ⁄ TIT: DA ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-09-22-18-00/et-revolutionsbryllup
+DESCRIPTION:De revolutie en de bruiloft ⁄ Un mariage pendant la révolution ⁄ Et revolutionsbryllup\nDirectors: August Blom, Danemark 1914\nCast: Philip Bech, Johanne Fritz-Petersen, Volmer Hjorth-Clausen\n[PLATEAU] NB ⁄ 65' ⁄ TIT: DA ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-09-22-18-00/et-revolutionsbryllup
 END:VEVENT
 BEGIN:VEVENT
 UID:7fd6698b-5728-4b10-bfe9-75463165524a
@@ -797,12 +813,20 @@ SUMMARY:Les courts des grands III
 DESCRIPTION:Les courts des grands III\nDirectors: Roberto Rossellini, Italie 1939\n[PLATEAU] NB ⁄ 11' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-09-22-20-00/les-courts-des-grands-c
 END:VEVENT
 BEGIN:VEVENT
-UID:b8e9b45c-4835-459a-b34d-6b08f2d9d42a
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:70ba9f9e-e7f3-4c5a-b646-983297961720
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260922T211500
 DTEND;TZID=Europe/Brussels:20260922T211500
 SUMMARY:Zerkalo
-DESCRIPTION:Le Miroir ⁄ De spiegel ⁄ Zerkalo\nDirectors: Andrej Tarkovskij, USSR 1975\nCast: Margarita Terekhova, Filipp Yankovskiy, Ignat Daniltsev\n[LEDOUX] NB + couleur ⁄ 105' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-22-21-15/zerkalo
+DESCRIPTION:De spiegel ⁄ Le Miroir ⁄ Zerkalo\nDirectors: Andrej Tarkovskij, USSR 1975\nCast: Margarita Terekhova, Filipp Yankovskiy, Ignat Daniltsev\n[LEDOUX] NB + couleur ⁄ 105' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-22-21-15/zerkalo
+END:VEVENT
+BEGIN:VEVENT
+UID:107ca8b0-d345-4789-ac1f-ca8ccd289605
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20260922T211500
+DTEND;TZID=Europe/Brussels:20260922T211500
+SUMMARY:The Fog
+DESCRIPTION:The Fog\nDirectors: John Carpenter, USA 1980\nCast: Jamie Lee Curtis, Adrienne Barbeau, Janet Leigh\n[LEDOUX] couleur ⁄ 89' ⁄ ST: FR\nhttps://cinematek.be/2026-09-22-21-15/22-09-2026-the-fog
 END:VEVENT
 BEGIN:VEVENT
 UID:3b817003-90cf-40d2-8bca-20fbe7f3bb71
@@ -901,12 +925,12 @@ SUMMARY:The Thing from Another World
 DESCRIPTION:The Thing from Another World\nDirectors: Christian Nyby, Howard Hawks, USA 1951\nCast: Kenneth Tobey, James Arness, Margaret Sheridan\n[PLATEAU] NB ⁄ 87' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2026-09-25-20-00/the-thing-from-another-world
 END:VEVENT
 BEGIN:VEVENT
-UID:92315975-2846-4b69-b6a0-2387c2f10c04
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:dcbce054-9010-4310-bc25-9389e2be2af3
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260925T210000
 DTEND;TZID=Europe/Brussels:20260925T210000
 SUMMARY:Dawn of the Dead
-DESCRIPTION:Zombie ⁄ In de greep van de zombies ⁄ Dawn of the Dead\nDirectors: George A. Romero, USA 1978\nCast: David Emge, Ken Foree, Gaylen Ross\n[LEDOUX] couleur ⁄ 119' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-25-21-00/dawn-of-the-dead
+DESCRIPTION:In de greep van de zombies ⁄ Zombie ⁄ Dawn of the Dead\nDirectors: George A. Romero, USA 1978\nCast: David Emge, Ken Foree, Gaylen Ross\n[LEDOUX] couleur ⁄ 119' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-25-21-00/dawn-of-the-dead
 END:VEVENT
 BEGIN:VEVENT
 UID:5b2c3b1a-870b-42c1-8627-3db6baa42c65
@@ -997,12 +1021,12 @@ SUMMARY:Niewinni czarodzieje
 DESCRIPTION:Les Innocents charmeurs ⁄ Innocent Sorcerers ⁄ Niewinni czarodzieje\nDirectors: Andrzej Wajda, Pologne 1960\nCast: Tadeusz Lomnicki, Krystyna Stypulkowska, Wanda Koczeska\n[PLATEAU] NB ⁄ 86' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-09-28-18-00/niewinni-czarodzieje
 END:VEVENT
 BEGIN:VEVENT
-UID:10054b03-097b-4a9a-a402-52a25085f785
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:ccb2b71a-bfe6-4c1d-9578-c21cb7311b2f
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260928T190000
 DTEND;TZID=Europe/Brussels:20260928T190000
-SUMMARY:Man’s Peril
-DESCRIPTION:Man’s Peril\nDirectors: Michael Ariel Rogosin, USA 2008\n[LEDOUX] couleur ⁄ 24' ⁄ ST: FR\nhttps://cinematek.be/2026-09-28-19-00/lionel-rogosin-compil-5
+SUMMARY:Good Times, Wonderful Times
+DESCRIPTION:Good Times, Wonderful Times\nDirectors: Lionel Rogosin, USA 1965\n[LEDOUX] NB ⁄ 70' ⁄ ST: FR\nhttps://cinematek.be/2026-09-28-19-00/lionel-rogosin-compil-5
 END:VEVENT
 BEGIN:VEVENT
 UID:3e716032-9075-43d3-a3f2-27adb980b7df
@@ -1053,12 +1077,12 @@ SUMMARY:Sahara
 DESCRIPTION:Sahara\nDirectors: Zoltán Korda, USA 1943\nCast: Humphrey Bogart, Bruce Bennett, J. Carrol Naish\n[PLATEAU] NB ⁄ 93' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2026-09-30-18-00/sahara
 END:VEVENT
 BEGIN:VEVENT
-UID:4ac64197-ad28-4d77-ac53-9ecbba4543f6
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:c7a23a3d-b176-4f3a-b3a1-5b1c73f05bd3
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20260930T190000
 DTEND;TZID=Europe/Brussels:20260930T190000
 SUMMARY:Young Mr. Lincoln
-DESCRIPTION:Vers sa destinée ⁄ De jonge Mr. Lincoln ⁄ Young Mr. Lincoln\nDirectors: John Ford, USA 1939\nCast: Henry Fonda, Alice Brady, Marjorie Weaver\n[LEDOUX] NB ⁄ 94' ⁄ ST: NL - FR\nhttps://cinematek.be/2026-09-30-19-00/young-mr-lincoln
+DESCRIPTION:De jonge Mr. Lincoln ⁄ Vers sa destinée ⁄ Young Mr. Lincoln\nDirectors: John Ford, USA 1939\nCast: Henry Fonda, Alice Brady, Marjorie Weaver\n[LEDOUX] NB ⁄ 94' ⁄ ST: NL - FR\nhttps://cinematek.be/2026-09-30-19-00/young-mr-lincoln
 END:VEVENT
 BEGIN:VEVENT
 UID:43339efd-20ba-48fc-810d-de89231d2d97
@@ -1181,12 +1205,12 @@ SUMMARY:Sleeping Beauty
 DESCRIPTION:Sleeping Beauty\nDirectors: Julia Leigh, Australie 2011\nCast: Emily Browning, Rachael Blake, Ewen Leslie\n[LEDOUX] couleur ⁄ 102' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-03-21-15/sleeping-beauty
 END:VEVENT
 BEGIN:VEVENT
-UID:6621f038-3e8e-435f-b664-45275bbe8d07
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:88dfc5eb-f2b4-4b7b-845d-0ff3c7d5e369
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261004T150000
 DTEND;TZID=Europe/Brussels:20261004T150000
 SUMMARY:Berg-Ejvind och hans hustru
-DESCRIPTION:Les Proscrits ⁄ De bannelingen ⁄ Berg-Ejvind och hans hustru\nDirectors: Victor Sjöström, Suède 1917\nCast: Victor Sjöström, Edith Erastoff, John Ekman\n[LEDOUX] NB ⁄ 106' ⁄ TIT: SV ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-10-04-15-00/berg-ejvind-och-hans-hustru
+DESCRIPTION:De bannelingen ⁄ Les Proscrits ⁄ Berg-Ejvind och hans hustru\nDirectors: Victor Sjöström, Suède 1917\nCast: Victor Sjöström, Edith Erastoff, John Ekman\n[LEDOUX] NB ⁄ 106' ⁄ TIT: SV ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-10-04-15-00/berg-ejvind-och-hans-hustru
 END:VEVENT
 BEGIN:VEVENT
 UID:c59e486c-d0a1-4831-9046-0c35d8400554
@@ -1349,12 +1373,12 @@ SUMMARY:Le Maître de musique
 DESCRIPTION:Le Maître de musique\nDirectors: Gérard Corbiau, Belgique, France 1988\nCast: José Van Dam, Anne Roussel, Philippe Volter\n[LEDOUX] couleur ⁄ 95' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-08-19-00/le-maitre-de-musique
 END:VEVENT
 BEGIN:VEVENT
-UID:d9b46187-80ef-4b76-bc15-3e621a9bad6e
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:8fe3671e-ebec-4606-a1cd-f2e41c4d9b21
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261008T200000
 DTEND;TZID=Europe/Brussels:20261008T200000
 SUMMARY:Thomas Graals bästa film
-DESCRIPTION:Le Meilleur Film de Thomas Graal ⁄ Thomas Graals beste film ⁄ Thomas Graals bästa film\nDirectors: Mauritz Stiller, Suède 1918\nCast: Victor Sjöström, Karin Molander, Albin Lavén\n[PLATEAU] NB ⁄ 58' ⁄ TIT: SV ⁄ ST: NL - FR ⁄ PIANO\nhttps://cinematek.be/2026-10-08-20-00/thomas-graals-basta-film
+DESCRIPTION:Thomas Graals beste film ⁄ Le Meilleur Film de Thomas Graal ⁄ Thomas Graals bästa film\nDirectors: Mauritz Stiller, Suède 1918\nCast: Victor Sjöström, Karin Molander, Albin Lavén\n[PLATEAU] NB ⁄ 58' ⁄ TIT: SV ⁄ ST: NL - FR ⁄ PIANO\nhttps://cinematek.be/2026-10-08-20-00/thomas-graals-basta-film
 END:VEVENT
 BEGIN:VEVENT
 UID:cd702294-4bdb-4044-bf3b-12864e3e7a0b
@@ -1405,12 +1429,12 @@ SUMMARY:Jules et Jim
 DESCRIPTION:Jules et Jim\nDirectors: François Truffaut, France 1962\nCast: Jeanne Moreau, Oskar Werner, Henri Serre\n[LEDOUX] NB ⁄ 106' ⁄ ST: NL\nhttps://cinematek.be/2026-10-10-17-00/jules-et-jim
 END:VEVENT
 BEGIN:VEVENT
-UID:347d79ba-1c3d-4c83-a5f2-ef1643792c2a
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:baa1db72-6be5-41cf-a817-63d366a762a5
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261010T180000
 DTEND;TZID=Europe/Brussels:20261010T180000
 SUMMARY:Sången om den eldröda blomman
-DESCRIPTION:Le Chant de la fleur rouge ⁄ Het lied van de helrode bloem ⁄ Sången om den eldröda blomman\nDirectors: Mauritz Stiller, Suède 1918\nCast: Greta Almroth, Lars Hanson, Lillebil Ibsen\n[PLATEAU] NB ⁄ 88' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-10-10-18-00/sangen-om-den-eldroda-blomman
+DESCRIPTION:Het lied van de helrode bloem ⁄ Le Chant de la fleur rouge ⁄ Sången om den eldröda blomman\nDirectors: Mauritz Stiller, Suède 1918\nCast: Greta Almroth, Lars Hanson, Lillebil Ibsen\n[PLATEAU] NB ⁄ 88' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-10-10-18-00/sangen-om-den-eldroda-blomman
 END:VEVENT
 BEGIN:VEVENT
 UID:9eca13e2-b443-41e6-9a7c-9b76bfc2ca62
@@ -1501,20 +1525,20 @@ SUMMARY:L’Atelier à 15 ans
 DESCRIPTION:L’Atelier à 15 ans\nDirectors: André Dartevelle, Belgique 1975\n[LEDOUX] 30' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-10-12-19-00/latelier-a-15-ans-a-la-recherche-de-s
 END:VEVENT
 BEGIN:VEVENT
-UID:2f92f121-81a8-4bd5-bf57-c8323e966d2e
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:7d0dbb8e-c95b-4205-917b-f289e744f521
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261012T201500
 DTEND;TZID=Europe/Brussels:20261012T201500
 SUMMARY:Novyy Vavilon
-DESCRIPTION:La Nouvelle Babylone ⁄ Het Nieuw Babylon ⁄ Novyy Vavilon\nDirectors: Grigori Kozintsev, Leonid Trauberg, USSR 1929\nCast: David Gutman, Yelena Kuzmina, Andrei Kostrichkin\n[PLATEAU] NB ⁄ 102' ⁄ TIT: RU ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-10-12-20-15/novyy-vavilon
+DESCRIPTION:Het Nieuw Babylon ⁄ La Nouvelle Babylone ⁄ Novyy Vavilon\nDirectors: Grigori Kozintsev, Leonid Trauberg, USSR 1929\nCast: David Gutman, Yelena Kuzmina, Andrei Kostrichkin\n[PLATEAU] NB ⁄ 102' ⁄ TIT: RU ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-10-12-20-15/novyy-vavilon
 END:VEVENT
 BEGIN:VEVENT
-UID:22cfca19-c7b4-46cf-9e49-1ea4e1757647
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:15c151eb-40d4-41d2-88b2-d908b6c000ad
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261012T210000
 DTEND;TZID=Europe/Brussels:20261012T210000
 SUMMARY:Village of the Damned
-DESCRIPTION:Le Village des damnés ⁄ Village of the Damned\nDirectors: John Carpenter, USA 1995\nCast: Christopher Reeve, Kirstie Alley, Linda Kozlowski\n[LEDOUX] couleur ⁄ 97' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-12-21-00/village-of-the-damned
+DESCRIPTION:Le Village des damnés ⁄ Village of the Damned\nDirectors: John Carpenter, USA 1995\nCast: Christopher Reeve, Kirstie Alley, Linda Kozlowski\n[LEDOUX] couleur ⁄ 97' ⁄ ST: FR\nhttps://cinematek.be/2026-10-12-21-00/village-of-the-damned
 END:VEVENT
 BEGIN:VEVENT
 UID:a27e369d-f3d5-4ff0-807f-8f3d255f9aed
@@ -1533,12 +1557,12 @@ SUMMARY:Jules et Jim
 DESCRIPTION:Jules et Jim\nDirectors: François Truffaut, France 1962\nCast: Jeanne Moreau, Oskar Werner, Henri Serre\n[LEDOUX] NB ⁄ 106' ⁄ ST: NL\nhttps://cinematek.be/2026-10-13-19-00/jules-et-jim
 END:VEVENT
 BEGIN:VEVENT
-UID:73ea34e1-990b-4a01-a0a7-3bcb379b857f
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:97baf6ce-a1a3-457b-81a3-30ad06ff49c2
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261013T203000
 DTEND;TZID=Europe/Brussels:20261013T203000
 SUMMARY:Sången om den eldröda blomman
-DESCRIPTION:Le Chant de la fleur rouge ⁄ Het lied van de helrode bloem ⁄ Sången om den eldröda blomman\nDirectors: Mauritz Stiller, Suède 1918\nCast: Greta Almroth, Lars Hanson, Lillebil Ibsen\n[PLATEAU] NB ⁄ 88' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-10-13-20-30/sangen-om-den-eldroda-blomman
+DESCRIPTION:Het lied van de helrode bloem ⁄ Le Chant de la fleur rouge ⁄ Sången om den eldröda blomman\nDirectors: Mauritz Stiller, Suède 1918\nCast: Greta Almroth, Lars Hanson, Lillebil Ibsen\n[PLATEAU] NB ⁄ 88' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-10-13-20-30/sangen-om-den-eldroda-blomman
 END:VEVENT
 BEGIN:VEVENT
 UID:76108ac8-0c70-4956-ad67-29f6d66ae7b8
@@ -1573,12 +1597,12 @@ SUMMARY:Messer im Kopf
 DESCRIPTION:Le Couteau dans la tête ⁄ Messer im Kopf\nDirectors: Reinhard Hauff, RFA 1978\nCast: Bruno Ganz, Angela Winkler, Hans Christian Blech\n[PLATEAU] couleur ⁄ 113' ⁄ ST: NL - FR\nhttps://cinematek.be/2026-10-14-20-00/messer-im-kopf
 END:VEVENT
 BEGIN:VEVENT
-UID:46d52a75-619e-48c6-ab32-e2062b4fd2ba
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:86c5d812-1d19-4629-9c15-1141ea81bf40
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261014T211500
 DTEND;TZID=Europe/Brussels:20261014T211500
-SUMMARY:Bitter Sweet Stories
-DESCRIPTION:Bitter Sweet Stories\nDirectors: Michael Ariel Rogosin, USA 2012\n[LEDOUX] NB + couleur ⁄ 28' ⁄ ST: FR\nhttps://cinematek.be/2026-10-14-21-15/lionel-rogosin-compil-7
+SUMMARY:Black Roots
+DESCRIPTION:Black Roots\nDirectors: Lionel Rogosin, USA 1970\n[LEDOUX] NB ⁄ 63' ⁄ ST: FR\nhttps://cinematek.be/2026-10-14-21-15/lionel-rogosin-compil-7
 END:VEVENT
 BEGIN:VEVENT
 UID:c89d137f-8293-4246-9391-f54c2a72e956
@@ -1661,12 +1685,12 @@ SUMMARY:Driven by Light
 DESCRIPTION:Walter Leblanc: Gedreven door licht ⁄ Driven by Light\nDirectors: Bertrand Lafontaine, Belgique 2023\n[LEDOUX] couleur ⁄ 39' ⁄ ST: EN\nhttps://cinematek.be/2026-10-17-17-00/driven-by-light
 END:VEVENT
 BEGIN:VEVENT
-UID:c3381043-be1a-4815-b0ab-3f2505ba56f4
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:ae7a4ed3-3e55-436b-8c49-bc215efdf6ba
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261017T180000
 DTEND;TZID=Europe/Brussels:20261017T180000
 SUMMARY:Actualités Mondiales n° 520
-DESCRIPTION:Wereld Aktualiteiten n° 520 / Actualités Mondiales n° 520\nDirectors: Lorem ipsum, Belgique 1941\n[PLATEAU] NB ⁄ 18' ⁄ V: NL - FR ⁄ ST\nhttps://cinematek.be/2026-10-17-18-00/die-geierwally-actualites-mondiales-n-520
+DESCRIPTION:Wereld Aktualiteiten n° 520 / Actualités Mondiales n° 520\nDirectors: Belgique 1941\n[PLATEAU] NB ⁄ 18' ⁄ V: NL - FR ⁄ ST\nhttps://cinematek.be/2026-10-17-18-00/die-geierwally-actualites-mondiales-n-520
 END:VEVENT
 BEGIN:VEVENT
 UID:cb26495d-3388-44fd-9d0d-ae94b771568d
@@ -1677,12 +1701,12 @@ SUMMARY:Paris Is Burning
 DESCRIPTION:Paris Is Burning\nDirectors: Jennie Livingston, USA 1990\n[LEDOUX] couleur ⁄ 78' ⁄ ST: FR\nhttps://cinematek.be/2026-10-17-19-00/paris-is-burning
 END:VEVENT
 BEGIN:VEVENT
-UID:445829fd-3de3-40fd-8e42-61c476b6861a
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:473d9d72-ca10-4bf8-b58e-06670ad6f5ee
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261017T203000
 DTEND;TZID=Europe/Brussels:20261017T203000
 SUMMARY:Thomas Graals bästa film
-DESCRIPTION:Le Meilleur Film de Thomas Graal ⁄ Thomas Graals beste film ⁄ Thomas Graals bästa film\nDirectors: Mauritz Stiller, Suède 1918\nCast: Victor Sjöström, Karin Molander, Albin Lavén\n[PLATEAU] NB ⁄ 58' ⁄ TIT: SV ⁄ ST: NL - FR ⁄ PIANO\nhttps://cinematek.be/2026-10-17-20-30/thomas-graals-basta-film
+DESCRIPTION:Thomas Graals beste film ⁄ Le Meilleur Film de Thomas Graal ⁄ Thomas Graals bästa film\nDirectors: Mauritz Stiller, Suède 1918\nCast: Victor Sjöström, Karin Molander, Albin Lavén\n[PLATEAU] NB ⁄ 58' ⁄ TIT: SV ⁄ ST: NL - FR ⁄ PIANO\nhttps://cinematek.be/2026-10-17-20-30/thomas-graals-basta-film
 END:VEVENT
 BEGIN:VEVENT
 UID:00101a53-87db-4c70-9fc1-549d7f473377
@@ -1805,12 +1829,12 @@ SUMMARY:Vampires
 DESCRIPTION:Vampires\nDirectors: John Carpenter, USA 1998\nCast: James Woods, Daniel Baldwin, Sheryl Lee\n[LEDOUX] couleur ⁄ 107' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-20-21-15/vampires
 END:VEVENT
 BEGIN:VEVENT
-UID:a66c84f9-fd1e-49ff-9d9b-f64f65a50857
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:0ca16ef3-7166-44ac-bf73-9d515146e43a
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261021T180000
 DTEND;TZID=Europe/Brussels:20261021T180000
 SUMMARY:Novyy Vavilon
-DESCRIPTION:La Nouvelle Babylone ⁄ Het Nieuw Babylon ⁄ Novyy Vavilon\nDirectors: Grigori Kozintsev, Leonid Trauberg, USSR 1929\nCast: David Gutman, Yelena Kuzmina, Andrei Kostrichkin\n[PLATEAU] NB ⁄ 102' ⁄ TIT: RU ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-10-21-18-00/novyy-vavilon
+DESCRIPTION:Het Nieuw Babylon ⁄ La Nouvelle Babylone ⁄ Novyy Vavilon\nDirectors: Grigori Kozintsev, Leonid Trauberg, USSR 1929\nCast: David Gutman, Yelena Kuzmina, Andrei Kostrichkin\n[PLATEAU] NB ⁄ 102' ⁄ TIT: RU ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-10-21-18-00/novyy-vavilon
 END:VEVENT
 BEGIN:VEVENT
 UID:260fb15c-2fe4-43ef-9507-24dd425f8814
@@ -1885,12 +1909,12 @@ SUMMARY:Le Crime de Monsieur Lange
 DESCRIPTION:Le Crime de Monsieur Lange\nDirectors: Jean Renoir, France 1936\nCast: René Lefèvre, Florelle, Jules Berry\n[PLATEAU] NB ⁄ 79' ⁄ ST: NL\nhttps://cinematek.be/2026-10-23-18-00/le-crime-de-monsieur-lange
 END:VEVENT
 BEGIN:VEVENT
-UID:9ca78881-69ea-4b99-9345-bedf07aad6ad
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:a10e1acb-f914-4ea0-8d77-b2c426fd0a46
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261023T190000
 DTEND;TZID=Europe/Brussels:20261023T190000
 SUMMARY:Farinelli
-DESCRIPTION:Farinelli\nDirectors: Gérard Corbiau, Belgique, France, Italie, UK 1994\n[LEDOUX] couleur ⁄ 110' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-23-19-00/farinelli
+DESCRIPTION:Farinelli\nDirectors: Gérard Corbiau, Belgique, France, Italie, UK 1994\n[LEDOUX] couleur ⁄ 110' ⁄ ST: EN\nhttps://cinematek.be/2026-10-23-19-00/farinelli
 END:VEVENT
 BEGIN:VEVENT
 UID:a58db1c4-376b-468c-8a59-0a382d6b9912
@@ -1917,20 +1941,20 @@ SUMMARY:Don Giovanni
 DESCRIPTION:Don Giovanni\nDirectors: Joseph Losey, France, Italie, RFA 1979\nCast: Ruggero Raimondi, John Macurdy, Edda Moser\n[LEDOUX] couleur ⁄ 175' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-24-17-00/don-giovanni
 END:VEVENT
 BEGIN:VEVENT
-UID:ac5533b5-ed80-4f5f-a76d-f77b60b08831
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:9c88841b-6bd2-47ff-815c-685386c579e7
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261024T180000
 DTEND;TZID=Europe/Brussels:20261024T180000
 SUMMARY:Thomas Graals bästa film
-DESCRIPTION:Le Meilleur Film de Thomas Graal ⁄ Thomas Graals beste film ⁄ Thomas Graals bästa film\nDirectors: Mauritz Stiller, Suède 1918\nCast: Victor Sjöström, Karin Molander, Albin Lavén\n[PLATEAU] NB ⁄ 58' ⁄ TIT: SV ⁄ ST: NL - FR ⁄ PIANO\nhttps://cinematek.be/2026-10-24-18-00/thomas-graals-basta-film
+DESCRIPTION:Thomas Graals beste film ⁄ Le Meilleur Film de Thomas Graal ⁄ Thomas Graals bästa film\nDirectors: Mauritz Stiller, Suède 1918\nCast: Victor Sjöström, Karin Molander, Albin Lavén\n[PLATEAU] NB ⁄ 58' ⁄ TIT: SV ⁄ ST: NL - FR ⁄ PIANO\nhttps://cinematek.be/2026-10-24-18-00/thomas-graals-basta-film
 END:VEVENT
 BEGIN:VEVENT
-UID:a6aeac70-b92b-454b-98be-5e18cbb877a8
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:7e7d9f99-9dcc-41b2-8c5a-9b328d6e0ecd
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261024T200000
 DTEND;TZID=Europe/Brussels:20261024T200000
 SUMMARY:Actualités Mondiales n° 520
-DESCRIPTION:Wereld Aktualiteiten n° 520 / Actualités Mondiales n° 520\nDirectors: Lorem ipsum, Belgique 1941\n[PLATEAU] NB ⁄ 18' ⁄ V: NL - FR ⁄ ST\nhttps://cinematek.be/2026-10-24-20-00/die-geierwally-actualites-mondiales-n-520
+DESCRIPTION:Wereld Aktualiteiten n° 520 / Actualités Mondiales n° 520\nDirectors: Belgique 1941\n[PLATEAU] NB ⁄ 18' ⁄ V: NL - FR ⁄ ST\nhttps://cinematek.be/2026-10-24-20-00/die-geierwally-actualites-mondiales-n-520
 END:VEVENT
 BEGIN:VEVENT
 UID:cf83684e-57c6-4dbe-bcf3-696fa3234c81
@@ -2005,12 +2029,12 @@ SUMMARY:Vertigo
 DESCRIPTION:Sueurs froides ⁄ Vertigo\nDirectors: Alfred Hitchcock, USA 1958\nCast: James Stewart, Kim Novak, Barbara Bel Geddes\n[LEDOUX] couleur ⁄ 129' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-26-19-00/vertigo
 END:VEVENT
 BEGIN:VEVENT
-UID:e973fb93-9cd9-47da-ae54-ab3ea02624de
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:65cf477b-3956-4410-a7b0-11371060988c
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261026T200000
 DTEND;TZID=Europe/Brussels:20261026T200000
 SUMMARY:Actualités Mondiales n° 557
-DESCRIPTION:Wereld Aktualiteiten n° 557 / Actualités Mondiales n° 557\nDirectors: Lorem ipsum, Belgique 1942\n[PLATEAU] NB ⁄ 15' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-10-26-20-00/munchhausen-actualites-mondiales-n-557
+DESCRIPTION:Wereld Aktualiteiten n° 557 / Actualités Mondiales n° 557\nDirectors: Belgique 1942\n[PLATEAU] NB ⁄ 15' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-10-26-20-00/munchhausen-actualites-mondiales-n-557
 END:VEVENT
 BEGIN:VEVENT
 UID:44d90236-943f-48bf-a4d6-7f53538c74ac
@@ -2093,20 +2117,20 @@ SUMMARY:Hugo
 DESCRIPTION:Hugo\nDirectors: Martin Scorsese, USA 2011\nCast: Asa Butterfield, Chloë Grace Moretz, Ben Kingsley\n[LEDOUX] couleur ⁄ 125' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-10-28-14-00/hugo
 END:VEVENT
 BEGIN:VEVENT
-UID:dca750c3-55d3-498b-9251-4667f09e99bd
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:916c0bf9-b35a-4c14-b688-b1adaa5719dd
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261028T163000
 DTEND;TZID=Europe/Brussels:20261028T163000
 SUMMARY:The Witches
-DESCRIPTION:Les Sorcières ⁄ De heksen ⁄ The Witches\nDirectors: Nicolas Roeg, USA, UK 1990\nCast: Anjelica Huston, Jasen Fisher, Rowan Atkinson\n[LEDOUX] couleur ⁄ 91' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-28-16-30/the-witches
+DESCRIPTION:De heksen ⁄ Les Sorcières ⁄ The Witches\nDirectors: Nicolas Roeg, USA, UK 1990\nCast: Anjelica Huston, Jasen Fisher, Rowan Atkinson\n[LEDOUX] couleur ⁄ 91' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-28-16-30/the-witches
 END:VEVENT
 BEGIN:VEVENT
-UID:2f7243e3-496e-4a16-b132-e527c48dbc2b
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:6ce2e3fb-c2e9-40e9-a862-fcc57664f0f1
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261028T180000
 DTEND;TZID=Europe/Brussels:20261028T180000
 SUMMARY:Actualités Mondiales n° 606
-DESCRIPTION:Wereld Aktualiteiten n° 606 / Actualités Mondiales n° 606\nDirectors: Lorem ipsum, Belgique 1943\n[PLATEAU] NB ⁄ 16' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-10-28-18-00/auf-wiedersehen-franziska-actualites-mondiales-n-606
+DESCRIPTION:Wereld Aktualiteiten n° 606 / Actualités Mondiales n° 606\nDirectors: Belgique 1943\n[PLATEAU] NB ⁄ 16' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-10-28-18-00/auf-wiedersehen-franziska-actualites-mondiales-n-606
 END:VEVENT
 BEGIN:VEVENT
 UID:c6d64bac-f862-4b87-87b8-196fdb08943d
@@ -2157,12 +2181,12 @@ SUMMARY:On the Road Again : le cinéma de Bouli Lanners
 DESCRIPTION:On the Road Again : le cinéma de Bouli Lanners\nDirectors: Benoît Mariage, Belgique 2011\n[LEDOUX] couleur ⁄ 59' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-10-29-19-00/on-the-road-again-le-cinema-de-bouli-lanners
 END:VEVENT
 BEGIN:VEVENT
-UID:82c96940-ce1c-4162-8c04-cd1f00237850
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:9c740f0f-b6ca-4f58-a018-4c969625559e
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261029T201500
 DTEND;TZID=Europe/Brussels:20261029T201500
 SUMMARY:Herr Roosevelt plaudert
-DESCRIPTION:M. Roosevelt radote / M. Roosevelt kletst / Herr Roosevelt plaudert\nDirectors: unknown, Allemagne 1943\n[PLATEAU] NB ⁄ 13' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-29-20-15/la-corona-di-ferro-herr-roosevelt-plaudert
+DESCRIPTION:M. Roosevelt kletst / M. Roosevelt radote / Herr Roosevelt plaudert\nDirectors: unknown, Allemagne 1943\n[PLATEAU] NB ⁄ 13' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-29-20-15/la-corona-di-ferro-herr-roosevelt-plaudert
 END:VEVENT
 BEGIN:VEVENT
 UID:d54933b1-923c-47ea-8eb1-fd3e7afe229b
@@ -2173,12 +2197,12 @@ SUMMARY:Masters of Horror: John Carpenter
 DESCRIPTION:Masters of Horror: John Carpenter\nDirectors: John Carpenter, USA, Canada 2005\n[PLATEAU] couleur ⁄ 59' ⁄ ST: FR\nhttps://cinematek.be/2026-10-30-18-00/masters-of-horror-john-carpenter
 END:VEVENT
 BEGIN:VEVENT
-UID:dd8151f0-7ddf-413a-8aa2-1df8ccfc73ff
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:866a3b53-e398-4010-8cf3-a8d36295293b
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261030T190000
 DTEND;TZID=Europe/Brussels:20261030T190000
 SUMMARY:Ilsa, She Wolf of the SS
-DESCRIPTION:Ilsa, la louve des SS ⁄ Ilsa, de wolvin van de SS ⁄ Ilsa, She Wolf of the SS\nDirectors: Don Edmonds, Canada 1975\nCast: Dyanne Thorne, Gregory Knoph, Tony Mumolo\n[LEDOUX] couleur ⁄ 93' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-30-19-00/ilsa-she-wolf-of-the-ss
+DESCRIPTION:Ilsa, de wolvin van de SS ⁄ Ilsa, la louve des SS ⁄ Ilsa, She Wolf of the SS\nDirectors: Don Edmonds, Canada 1975\nCast: Dyanne Thorne, Gregory Knoph, Tony Mumolo\n[LEDOUX] couleur ⁄ 93' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-30-19-00/ilsa-she-wolf-of-the-ss
 END:VEVENT
 BEGIN:VEVENT
 UID:bcf5acb6-343c-4039-9df3-ae7eee09e8f2
@@ -2205,12 +2229,12 @@ SUMMARY:The Addams Family
 DESCRIPTION:La Famille Addams ⁄ The Addams Family\nDirectors: Barry Sonnenfeld, USA 1991\nCast: Raul Julia, Anjelica Huston, Christopher Lloyd\n[LEDOUX] couleur ⁄ 99' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-10-31-17-00/the-addams-family
 END:VEVENT
 BEGIN:VEVENT
-UID:5d12731a-02a7-4e1a-a3e7-2a04d5de8f3a
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:929c8d9d-c674-4f63-ae80-0812266c144d
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261031T180000
 DTEND;TZID=Europe/Brussels:20261031T180000
 SUMMARY:Actualités Mondiales n° 628
-DESCRIPTION:Wereld Aktualiteiten n° 628 / Actualités Mondiales n° 628\nDirectors: Lorem ipsum, Belgique 1943\n[PLATEAU] NB ⁄ 9' ⁄ V: NL - FR ⁄ ST\nhttps://cinematek.be/2026-10-31-18-00/quax-der-bruchpilot-actualites-mondiales-n-628
+DESCRIPTION:Wereld Aktualiteiten n° 628 / Actualités Mondiales n° 628\nDirectors: Belgique 1943\n[PLATEAU] NB ⁄ 9' ⁄ V: NL - FR ⁄ ST\nhttps://cinematek.be/2026-10-31-18-00/quax-der-bruchpilot-actualites-mondiales-n-628
 END:VEVENT
 BEGIN:VEVENT
 UID:4009e677-6461-4a19-8a11-f74f5ee1ae1f
@@ -2317,20 +2341,20 @@ SUMMARY:Eldorado
 DESCRIPTION:California wash ⁄ Eldorado\nDirectors: Bouli Lanners, Belgique, France 2007\nCast: Bouli Lanners, Fabrice Adde, Philippe Nahon\n[LEDOUX] couleur ⁄ 81' ⁄ ST: NL\nhttps://cinematek.be/2026-11-01-21-30/eldorado
 END:VEVENT
 BEGIN:VEVENT
-UID:ba3884f2-250c-46d1-9407-a1418a43c711
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:d08a6a02-265f-4da9-af37-81278e5826f0
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261102T180000
 DTEND;TZID=Europe/Brussels:20261102T180000
 SUMMARY:Actualités Mondiales n° 557
-DESCRIPTION:Wereld Aktualiteiten n° 557 / Actualités Mondiales n° 557\nDirectors: Lorem ipsum, Belgique 1942\n[PLATEAU] NB ⁄ 15' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-11-02-18-00/munchhausen-actualites-mondiales-n-557
+DESCRIPTION:Wereld Aktualiteiten n° 557 / Actualités Mondiales n° 557\nDirectors: Belgique 1942\n[PLATEAU] NB ⁄ 15' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-11-02-18-00/munchhausen-actualites-mondiales-n-557
 END:VEVENT
 BEGIN:VEVENT
-UID:ffc193d5-4284-405c-ae8c-2b18a6f89ba4
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:e62e0b38-74c5-49f1-87aa-61c9c6321a6d
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261102T190000
 DTEND;TZID=Europe/Brussels:20261102T190000
 SUMMARY:Akibiyori
-DESCRIPTION:Fin d’automne ⁄ Late Autumn ⁄ Akibiyori\nDirectors: Yasujiro Ozu, Japon 1960\nCast: Setsuko Hara, Yôko Tsukasa, Mariko Okada\n[LEDOUX] couleur ⁄ 127' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-02-19-00/akibiyori
+DESCRIPTION:Late Autumn ⁄ Fin d’automne ⁄ Akibiyori\nDirectors: Yasujiro Ozu, Japon 1960\nCast: Setsuko Hara, Yôko Tsukasa, Mariko Okada\n[LEDOUX] couleur ⁄ 127' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-02-19-00/akibiyori
 END:VEVENT
 BEGIN:VEVENT
 UID:4c9044b8-46fc-4e81-a132-d81491ad15af
@@ -2373,12 +2397,12 @@ SUMMARY:Maak je eigen kortfilm
 DESCRIPTION:Maak je eigen kortfilm\n[FOYER] Filem'On ⁄ 120' ⁄ NL ⁄   120 ⁄ €12\nhttps://cinematek.be/2026-11-03-14-00/2026-11-03
 END:VEVENT
 BEGIN:VEVENT
-UID:384bc56a-af42-453d-ae4e-032c08194b11
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:27dba8be-9014-4f10-8b52-5614ad38bbb1
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261103T180000
 DTEND;TZID=Europe/Brussels:20261103T180000
 SUMMARY:Prästänkan
-DESCRIPTION:La Quatrième Alliance de Dame Marguerite ⁄ De vierde trouwring van Vrouw Marguerite ⁄ Prästänkan\nDirectors: Carl Theodor Dreyer, Suède 1920\nCast: Hildur Carlberg, Einar Rød, Greta Almroth\n[PLATEAU] NB ⁄ 84' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-11-03-18-00/prastankan
+DESCRIPTION:De vierde trouwring van Vrouw Marguerite ⁄ La Quatrième Alliance de Dame Marguerite ⁄ Prästänkan\nDirectors: Carl Theodor Dreyer, Suède 1920\nCast: Hildur Carlberg, Einar Rød, Greta Almroth\n[PLATEAU] NB ⁄ 84' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-11-03-18-00/prastankan
 END:VEVENT
 BEGIN:VEVENT
 UID:fc1b9344-d813-4d01-9fee-a221ed504e3c
@@ -2453,12 +2477,12 @@ SUMMARY:Sebastiane
 DESCRIPTION:Sebastiane\nDirectors: Derek Jarman, Paul Humfress, UK 1976\nCast: Leonardo Treviglio, Barney James, Neil Kennedy\n[LEDOUX] couleur ⁄ 85' ⁄ ST: FR\nhttps://cinematek.be/2026-11-04-19-00/sebastiane
 END:VEVENT
 BEGIN:VEVENT
-UID:438de370-6489-4f55-8645-b90e973239c3
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:8631af14-4f26-4e22-902b-60334af12d96
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261104T200000
 DTEND;TZID=Europe/Brussels:20261104T200000
 SUMMARY:Actualités Mondiales n° 606
-DESCRIPTION:Wereld Aktualiteiten n° 606 / Actualités Mondiales n° 606\nDirectors: Lorem ipsum, Belgique 1943\n[PLATEAU] NB ⁄ 16' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-11-04-20-00/auf-wiedersehen-franziska-actualites-mondiales-n-606
+DESCRIPTION:Wereld Aktualiteiten n° 606 / Actualités Mondiales n° 606\nDirectors: Belgique 1943\n[PLATEAU] NB ⁄ 16' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-11-04-20-00/auf-wiedersehen-franziska-actualites-mondiales-n-606
 END:VEVENT
 BEGIN:VEVENT
 UID:dbafed21-ed29-4753-883f-3fce61218e0a
@@ -2509,12 +2533,12 @@ SUMMARY:The Addams Family
 DESCRIPTION:La Famille Addams ⁄ The Addams Family\nDirectors: Barry Sonnenfeld, USA 1991\nCast: Raul Julia, Anjelica Huston, Christopher Lloyd\n[LEDOUX] couleur ⁄ 99' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-05-21-15/the-addams-family
 END:VEVENT
 BEGIN:VEVENT
-UID:18ed16d0-5f71-4e09-a8e0-4091ff2c16a4
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:5a1fbb22-f52f-43e6-b83a-3dba67c8766e
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261106T180000
 DTEND;TZID=Europe/Brussels:20261106T180000
 SUMMARY:Herr Roosevelt plaudert
-DESCRIPTION:M. Roosevelt radote / M. Roosevelt kletst / Herr Roosevelt plaudert\nDirectors: unknown, Allemagne 1943\n[PLATEAU] NB ⁄ 13' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-06-18-00/la-corona-di-ferro-herr-roosevelt-plaudert
+DESCRIPTION:M. Roosevelt kletst / M. Roosevelt radote / Herr Roosevelt plaudert\nDirectors: unknown, Allemagne 1943\n[PLATEAU] NB ⁄ 13' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-06-18-00/la-corona-di-ferro-herr-roosevelt-plaudert
 END:VEVENT
 BEGIN:VEVENT
 UID:33909f0e-1561-4d15-9e51-7b6bd99e0d41
@@ -2541,12 +2565,12 @@ SUMMARY:Vertigo
 DESCRIPTION:Sueurs froides ⁄ Vertigo\nDirectors: Alfred Hitchcock, USA 1958\nCast: James Stewart, Kim Novak, Barbara Bel Geddes\n[LEDOUX] couleur ⁄ 129' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-06-21-00/vertigo
 END:VEVENT
 BEGIN:VEVENT
-UID:df69ad57-0dd9-4ffd-be0a-c222c03e2bc2
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:f3f32a92-49be-4369-b7b0-3221dc901542
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261107T170000
 DTEND;TZID=Europe/Brussels:20261107T170000
 SUMMARY:Wozzeck
-DESCRIPTION:Wozzeck\nDirectors: Gérard Corbiau, Belgique 1982\n[LEDOUX] couleur ⁄ 84' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-11-07-17-00/wozzeck
+DESCRIPTION:Wozzeck\nDirectors: Gérard Corbiau, Belgique 1982\n[LEDOUX] couleur ⁄ 54' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-11-07-17-00/wozzeck
 END:VEVENT
 BEGIN:VEVENT
 UID:e88163cd-8a51-4715-a221-0de2c35a101e
@@ -2565,12 +2589,12 @@ SUMMARY:Higanbana
 DESCRIPTION:Fleurs d’équinoxe ⁄ Equinox Flower ⁄ Higanbana\nDirectors: Yasujiro Ozu, Japon 1958\nCast: Shin Saburi, Kinuyo Tanaka, Ineko Arima\n[LEDOUX] couleur ⁄ 117' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-07-19-00/higanbana
 END:VEVENT
 BEGIN:VEVENT
-UID:4ebbd2e0-c792-4b2e-bd93-83a45f7f3ffe
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:98644f79-c355-4ccd-bfa5-f8850f3ee023
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261107T201500
 DTEND;TZID=Europe/Brussels:20261107T201500
 SUMMARY:Actualités Mondiales n° 628
-DESCRIPTION:Wereld Aktualiteiten n° 628 / Actualités Mondiales n° 628\nDirectors: Lorem ipsum, Belgique 1943\n[PLATEAU] NB ⁄ 9' ⁄ V: NL - FR ⁄ ST\nhttps://cinematek.be/2026-11-07-20-15/quax-der-bruchpilot-actualites-mondiales-n-628
+DESCRIPTION:Wereld Aktualiteiten n° 628 / Actualités Mondiales n° 628\nDirectors: Belgique 1943\n[PLATEAU] NB ⁄ 9' ⁄ V: NL - FR ⁄ ST\nhttps://cinematek.be/2026-11-07-20-15/quax-der-bruchpilot-actualites-mondiales-n-628
 END:VEVENT
 BEGIN:VEVENT
 UID:9b21d42f-b4f4-440a-9f9d-f940a39fb6b2
@@ -2613,12 +2637,12 @@ SUMMARY:L’Enfant
 DESCRIPTION:L’Enfant\nDirectors: Jean-Pierre Dardenne, Luc Dardenne, Belgique, France 2005\nCast: Jérémie Rénier, Déborah François, Jérémie Segard\n[LEDOUX] couleur ⁄ 95' ⁄ ST: NL\nhttps://cinematek.be/2026-11-08-19-00/lenfant
 END:VEVENT
 BEGIN:VEVENT
-UID:5ef24102-1074-432f-b9e6-ad929783386f
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:bf4a1c66-80d2-4f48-9128-8432ed83f8b0
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261108T203000
 DTEND;TZID=Europe/Brussels:20261108T203000
 SUMMARY:Cambio de sexo
-DESCRIPTION:Je veux être femme ⁄ Change of Sex ⁄ Cambio de sexo\nDirectors: Vicente Aranda, Espagne 1977\nCast: Victoria Abril, Lou Castel, Fernando Sancho\n[PLATEAU] couleur ⁄ 113' ⁄ ST: NL - FR\nhttps://cinematek.be/2026-11-08-20-30/cambio-de-sexo
+DESCRIPTION:Change of Sex ⁄ Je veux être femme ⁄ Cambio de sexo\nDirectors: Vicente Aranda, Espagne 1977\nCast: Victoria Abril, Lou Castel, Fernando Sancho\n[PLATEAU] couleur ⁄ 113' ⁄ ST: NL - FR\nhttps://cinematek.be/2026-11-08-20-30/cambio-de-sexo
 END:VEVENT
 BEGIN:VEVENT
 UID:c2b8985c-fb60-48d8-bcdb-a27aca5b6cb5
@@ -2645,20 +2669,20 @@ SUMMARY:Bioscoop in bezet België
 DESCRIPTION:Bioscoop in bezet België\n[LEDOUX] 90' ⁄ NL ⁄   90 ⁄ ENTRÉE LIBRE\nhttps://cinematek.be/2026-11-09-19-00/2026-11-09
 END:VEVENT
 BEGIN:VEVENT
-UID:0c3070d8-5f78-41dd-a04e-44a80e7f57e1
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:63358810-4e82-4407-b2f4-583901cceb79
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261109T200000
 DTEND;TZID=Europe/Brussels:20261109T200000
 SUMMARY:Prästänkan
-DESCRIPTION:La Quatrième Alliance de Dame Marguerite ⁄ De vierde trouwring van Vrouw Marguerite ⁄ Prästänkan\nDirectors: Carl Theodor Dreyer, Suède 1920\nCast: Hildur Carlberg, Einar Rød, Greta Almroth\n[PLATEAU] NB ⁄ 84' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-11-09-20-00/prastankan
+DESCRIPTION:De vierde trouwring van Vrouw Marguerite ⁄ La Quatrième Alliance de Dame Marguerite ⁄ Prästänkan\nDirectors: Carl Theodor Dreyer, Suède 1920\nCast: Hildur Carlberg, Einar Rød, Greta Almroth\n[PLATEAU] NB ⁄ 84' ⁄ TIT: FR - NL ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-11-09-20-00/prastankan
 END:VEVENT
 BEGIN:VEVENT
-UID:32841fab-a216-4a9e-b888-2efc48672022
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:b964ec67-85b8-4d09-9494-886466f56895
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261109T210000
 DTEND;TZID=Europe/Brussels:20261109T210000
 SUMMARY:Roter Nebel
-DESCRIPTION:Pluie de sang / Roode nevel / Roter Nebel\nDirectors: Vahayn Badal, Voldermars Puuze, Allemagne, Belgique 1942\n[LEDOUX] NB ⁄ 20' ⁄ V: NL ⁄ ST\nhttps://cinematek.be/2026-11-09-21-00/jud-suss-roter-nebel
+DESCRIPTION:Roode nevel / Pluie de sang / Roter Nebel\nDirectors: Vahayn Badal, Voldermars Puuze, Allemagne, Belgique 1942\n[LEDOUX] NB ⁄ 20' ⁄ V: NL ⁄ ST\nhttps://cinematek.be/2026-11-09-21-00/jud-suss-roter-nebel
 END:VEVENT
 BEGIN:VEVENT
 UID:a91492e1-4efd-433f-b1c5-a6a92a8c1031
@@ -2669,12 +2693,12 @@ SUMMARY:L’Âge de raison : le cinéma des frères Dardenne
 DESCRIPTION:L’Âge de raison : le cinéma des frères Dardenne\nDirectors: Alain Marcoen, Luc Jabon, Belgique 2014\n[PLATEAU] couleur ⁄ 61' ⁄ ST: EN\nhttps://cinematek.be/2026-11-10-18-00/lage-de-raison-le-cinema-des-freres-dardenne
 END:VEVENT
 BEGIN:VEVENT
-UID:fcaf76eb-5ae3-4d70-a364-30eeebc14f9e
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:a4e9e650-058f-40da-b2c5-e898cb31dbba
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261110T190000
 DTEND;TZID=Europe/Brussels:20261110T190000
 SUMMARY:Celovek s kino-apparatom
-DESCRIPTION:L’ Homme à la caméra ⁄ De man met de camera ⁄ Celovek s kino-apparatom\nDirectors: Dziga Vertov, USSR 1929\nCast: Mihail Kaufman, Elizaveta Svilova\n[LEDOUX] NB ⁄ 99' ⁄ TIT: — ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-11-10-19-00/celovek-s-kino-apparatom
+DESCRIPTION:De man met de camera ⁄ L’ Homme à la caméra ⁄ Celovek s kino-apparatom\nDirectors: Dziga Vertov, USSR 1929\nCast: Mihail Kaufman, Elizaveta Svilova\n[LEDOUX] NB ⁄ 99' ⁄ TIT: — ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-11-10-19-00/celovek-s-kino-apparatom
 END:VEVENT
 BEGIN:VEVENT
 UID:1d54b295-785d-4712-8f13-7fdab48bbb61
@@ -2685,12 +2709,28 @@ SUMMARY:Céline et Julie vont en bateau
 DESCRIPTION:Céline et Julie vont en bateau\nDirectors: Jacques Rivette, France 1974\nCast: Juliet Berto, Dominique Labourier\n[PLATEAU] couleur ⁄ 193' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-11-10-20-00/celine-et-julie-vont-en-bateau
 END:VEVENT
 BEGIN:VEVENT
-UID:72e86b6e-8744-4142-b6d7-26fd2f45d839
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:330d8a42-3c67-4d33-b443-ec1cf545666b
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261110T210000
 DTEND;TZID=Europe/Brussels:20261110T210000
-SUMMARY:Akibiyori
-DESCRIPTION:Fin d’automne ⁄ Late Autumn ⁄ Akibiyori\nDirectors: Yasujiro Ozu, Japon 1960\nCast: Setsuko Hara, Yôko Tsukasa, Mariko Okada\n[LEDOUX] couleur ⁄ 127' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-10-21-00/akibiyori
+SUMMARY:Black Roots
+DESCRIPTION:Black Roots\nDirectors: Lionel Rogosin, USA 1970\n[LEDOUX] NB ⁄ 63' ⁄ ST: FR\nhttps://cinematek.be/2026-11-10-21-00/akibiyori
+END:VEVENT
+BEGIN:VEVENT
+UID:425eb449-ac53-4973-8853-c66fd0c88c04
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261111T140000
+DTEND;TZID=Europe/Brussels:20261111T140000
+SUMMARY:Elephants & Squirrels
+DESCRIPTION:Elephants & Squirrels\nDirectors: Gregor Brändli, Suisse 2025\n[LEDOUX] couleur ⁄ 114' ⁄ ST: FR\nhttps://cinematek.be/2026-11-11-14-00/11-11-2026-elephants-squirrels
+END:VEVENT
+BEGIN:VEVENT
+UID:ab36f860-ec90-4e5c-9cbf-b232981e046f
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261111T150000
+DTEND;TZID=Europe/Brussels:20261111T150000
+SUMMARY:Ninety
+DESCRIPTION:Ninety\nDirectors: Maroun Baghdadi, Liban 1978\n[PLATEAU] couleur ⁄ 54' ⁄ ST: FR\nhttps://cinematek.be/2026-11-11-15-00/11-11-2026-ninety-2
 END:VEVENT
 BEGIN:VEVENT
 UID:fa83528a-c3f0-4c31-b88f-3b3d1e20f81a
@@ -2701,12 +2741,28 @@ SUMMARY:Sous les masques
 DESCRIPTION:Sous les masques\nDirectors: Paul Haesaerts, Belgique 1958\n[LEDOUX] couleur ⁄ 47' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-11-11-16-00/sous-les-masques
 END:VEVENT
 BEGIN:VEVENT
+UID:f974154b-6de8-45a7-b339-598e709acc47
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261111T170000
+DTEND;TZID=Europe/Brussels:20261111T170000
+SUMMARY:Murmures
+DESCRIPTION:Murmures\nDirectors: Maroun Baghdadi, Liban 1980\n[PLATEAU] ST\nhttps://cinematek.be/2026-11-11-17-00/11-11-2026-murmures
+END:VEVENT
+BEGIN:VEVENT
 UID:8b251990-d6e2-49e5-a2d6-7a555c7e7ee0
 DTSTAMP;TZID=Europe/Brussels:20260826T162840
 DTSTART;TZID=Europe/Brussels:20261111T180000
 DTEND;TZID=Europe/Brussels:20261111T180000
 SUMMARY:Barbara Forever
 DESCRIPTION:Barbara Forever\nDirectors: Brydie O’Connor, USA 2026\n[LEDOUX] couleur ⁄ 102' ⁄ ST: FR\nhttps://cinematek.be/2026-11-11-18-00/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+UID:2accfdb7-b64a-405e-8285-ec58e3350d07
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261111T190000
+DTEND;TZID=Europe/Brussels:20261111T190000
+SUMMARY:Somniculus
+DESCRIPTION:Somniculus\nDirectors: Ali Cherri, Liban, France 2017\n[PLATEAU] couleur ⁄ 14' ⁄ ST: FR\nhttps://cinematek.be/2026-11-11-19-00/11-11-2026-trois-films-dali-cherri
 END:VEVENT
 BEGIN:VEVENT
 UID:b1f674d3-c550-4fa4-a674-b9032004c678
@@ -2725,132 +2781,156 @@ SUMMARY:Magnificent Obsession
 DESCRIPTION:Le Secret magnifique ⁄ Magnificent Obsession\nDirectors: Douglas Sirk, USA 1954\nCast: Jane Wyman, Rock Hudson, Agnes Moorehead\n[LEDOUX] couleur ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-12-15-00/magnificent-obsession
 END:VEVENT
 BEGIN:VEVENT
-UID:b6048525-a641-4d94-9740-36d2b146dd57
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:e6487d34-41ec-4619-84c6-c6bf835918e0
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261112T180000
 DTEND;TZID=Europe/Brussels:20261112T180000
-SUMMARY:
-DESCRIPTION:\n[PLATEAU] \nhttps://cinematek.be/2026-11-12-18-00/2026-11-12
+SUMMARY:Cilama
+DESCRIPTION:Cilama\nDirectors: Hady Zaccak, Liban, Qatar 2024\n[PLATEAU] couleur ⁄ 90' ⁄ ST: FR\nhttps://cinematek.be/2026-11-12-18-00/12-11-2026-cilama
 END:VEVENT
 BEGIN:VEVENT
-UID:670fc2d4-b42c-4214-af1c-620053e2c6b7
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:24640d0b-87b3-41e5-abfe-aa6e8793f54c
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261112T190000
 DTEND;TZID=Europe/Brussels:20261112T190000
-SUMMARY:
-DESCRIPTION:\n[LEDOUX] \nhttps://cinematek.be/2026-11-12-19-00/2026-11-12
+SUMMARY:Nostalgia for the Future
+DESCRIPTION:Nostalgia for the Future\nDirectors: Brecht Debackere, Belgique, Italie, Pays-Bas 2026\n[LEDOUX] couleur ⁄ 75' ⁄ ST: FR\nhttps://cinematek.be/2026-11-12-19-00/12-11-2026-nostalgia-for-the-future
 END:VEVENT
 BEGIN:VEVENT
-UID:17c0b968-f516-45c5-98ac-c620a6f074e0
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:62ba8ac3-5104-42e6-aa7c-53514c5edd27
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261112T200000
 DTEND;TZID=Europe/Brussels:20261112T200000
-SUMMARY:
-DESCRIPTION:\n[PLATEAU] \nhttps://cinematek.be/2026-11-12-20-00/2026-11-12
+SUMMARY:Cilama
+DESCRIPTION:Cilama\nDirectors: Hady Zaccak, Liban, Qatar 2024\n[PLATEAU] couleur ⁄ 90' ⁄ ST: FR\nhttps://cinematek.be/2026-11-12-20-00/12-11-2026-cilama
 END:VEVENT
 BEGIN:VEVENT
-UID:cbb8f321-22b5-48b1-b742-83d362b0cc5d
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:d18d2fe6-d178-4021-9134-9ecab589e5d8
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261112T210000
 DTEND;TZID=Europe/Brussels:20261112T210000
-SUMMARY:
-DESCRIPTION:\n[LEDOUX] \nhttps://cinematek.be/2026-11-12-21-00/2026-11-12
+SUMMARY:Germaine Acogny, L’essence de la danse
+DESCRIPTION:Germaine Acogny, L’essence de la danse\nDirectors: Greta-Marie Becker, Allemagne, France, Sénégal 2025\n[LEDOUX] couleur ⁄ 88' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-11-12-21-00/12-11-2026-germaine-cogny-lessence-de-la-danse
 END:VEVENT
 BEGIN:VEVENT
-UID:086f8be2-726a-49fc-9254-afdc7e53a969
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:72c563df-889d-4f9f-ba49-7c46b512914b
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261113T180000
 DTEND;TZID=Europe/Brussels:20261113T180000
-SUMMARY:
-DESCRIPTION:\n[PLATEAU] \nhttps://cinematek.be/2026-11-13-18-00/2026-11-13
+SUMMARY:Donn, le danseur du XXème siècle
+DESCRIPTION:Donn, le danseur du XXème siècle\nDirectors: Mariano Baez, Florencia Dávila, Belgique, France 2026\n[LEDOUX] couleur ⁄ 58' ⁄ ST: FR\nhttps://cinematek.be/2026-11-13-18-00/13-11-2026-donn-le-danseur-du-xxeme-siecle
 END:VEVENT
 BEGIN:VEVENT
-UID:287c61b2-b294-44f8-91ba-caa7f67d98e6
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:27c7b5db-0c8b-46c5-9f45-952a553a2c5c
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261113T190000
 DTEND;TZID=Europe/Brussels:20261113T190000
-SUMMARY:
-DESCRIPTION:\n[LEDOUX] \nhttps://cinematek.be/2026-11-13-19-00/2026-11-13
+SUMMARY:Murmures
+DESCRIPTION:Murmures\nDirectors: Maroun Baghdadi, Liban 1980\n[PLATEAU] ST\nhttps://cinematek.be/2026-11-13-19-00/13-11-2026-murmures
 END:VEVENT
 BEGIN:VEVENT
-UID:e6617ea8-61e2-460b-8c6d-20552a004e64
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
-DTSTART;TZID=Europe/Brussels:20261113T200000
-DTEND;TZID=Europe/Brussels:20261113T200000
-SUMMARY:
-DESCRIPTION:\n[PLATEAU] \nhttps://cinematek.be/2026-11-13-20-00/2026-11-13
+UID:3a884946-c2ce-4a43-913c-b9a92e393a8a
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261113T193000
+DTEND;TZID=Europe/Brussels:20261113T193000
+SUMMARY:Unerasable! (Diary of a Hidden Fate)
+DESCRIPTION:Unerasable! (Diary of a Hidden Fate)\nDirectors: Socrates Saint-Wulfstan Drakos, Belgique, Thaïlande, Suède 2026\n[LEDOUX] 97' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-11-13-19-30/13-11-2026-unerasable-diary-of-a-hidden-fate
 END:VEVENT
 BEGIN:VEVENT
-UID:42642b0e-7700-4f91-a108-189a0dc00eb6
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
-DTSTART;TZID=Europe/Brussels:20261113T210000
-DTEND;TZID=Europe/Brussels:20261113T210000
-SUMMARY:
-DESCRIPTION:\n[LEDOUX] \nhttps://cinematek.be/2026-11-13-21-00/2026-11-13
+UID:3df4f1ca-d0c9-4e37-82f9-c3b7acf469af
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261113T203000
+DTEND;TZID=Europe/Brussels:20261113T203000
+SUMMARY:Ninety
+DESCRIPTION:Ninety\nDirectors: Maroun Baghdadi, Liban 1978\n[PLATEAU] couleur ⁄ 54' ⁄ ST: FR\nhttps://cinematek.be/2026-11-13-20-30/13-11-2026-ninety
 END:VEVENT
 BEGIN:VEVENT
-UID:83d2e11a-6255-41db-b598-5f58857dc2ba
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:5eebf7f2-d9b4-433d-9c6e-2efa450748aa
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261114T140000
+DTEND;TZID=Europe/Brussels:20261114T140000
+SUMMARY:Saint-Gilles murmure
+DESCRIPTION:Saint-Gilles murmure\nDirectors: Alexandra Rice, Belgique 2026\n[LEDOUX] couleur ⁄ 22' ⁄ ST: EN\nhttps://cinematek.be/2026-11-14-14-00/14-11-2026-cartographie-dun-graveur-saint-gilles-murmure
+END:VEVENT
+BEGIN:VEVENT
+UID:5cacab09-3955-49fd-bd6e-92b1fd5f612d
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261114T150000
+DTEND;TZID=Europe/Brussels:20261114T150000
+SUMMARY:The Dome Sessions
+DESCRIPTION:The Dome Sessions\nDirectors: Firas El Hallak, Belgique, Liban 2025\n[PLATEAU] couleur ⁄ 61' ⁄ ST: EN\nhttps://cinematek.be/2026-11-14-15-00/14-11-2026-the-dome-sessions
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e4ba1e-7f77-4ab2-8894-1c26ca9ea1d2
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261114T160000
+DTEND;TZID=Europe/Brussels:20261114T160000
+SUMMARY:Moon Safari + Sujet Sensible + What We Said to Brussels Airlines
+DESCRIPTION:Moon Safari + Sujet Sensible + What We Said to Brussels Airlines\nDirectors: Hugo Amoedo Canal, Belgique 2026\n[LEDOUX] couleur ⁄ 22' ⁄ ST: FR\nhttps://cinematek.be/2026-11-14-16-00/14-11-2026-moon-safari-sujet-sensible-what-we-said-to-brussels-airlines
+END:VEVENT
+BEGIN:VEVENT
+UID:844ab4b0-5716-4346-a340-de14950da696
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261114T170000
 DTEND;TZID=Europe/Brussels:20261114T170000
-SUMMARY:
-DESCRIPTION:\n[LEDOUX] \nhttps://cinematek.be/2026-11-14-17-00/2026-11-14
+SUMMARY:Cilama
+DESCRIPTION:Cilama\nDirectors: Hady Zaccak, Liban, Qatar 2024\n[PLATEAU] couleur ⁄ 90' ⁄ ST: FR\nhttps://cinematek.be/2026-11-14-17-00/14-11-2026-cilama
 END:VEVENT
 BEGIN:VEVENT
-UID:914d0378-30f1-4a9d-89a0-327663335051
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:97ef4a3e-f17f-4982-aa89-9fb8eaa22dc7
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261114T180000
 DTEND;TZID=Europe/Brussels:20261114T180000
-SUMMARY:
-DESCRIPTION:\n[PLATEAU] \nhttps://cinematek.be/2026-11-14-18-00/2026-11-14
+SUMMARY:L’Attaque de la femme de 50 pieds
+DESCRIPTION:L’Attaque de la femme de 50 pieds\nDirectors: Margaux Plume, Belgique 2026\n[LEDOUX] couleur ⁄ 4' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-11-14-18-00/14-11-2026-ceci-nest-pas-un-film-francais-lattaque-de-la-femme-de-50-pieds
 END:VEVENT
 BEGIN:VEVENT
-UID:c0f4648d-6899-4c3a-9a77-8b0d76894f63
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:f761eff5-08c8-4e7e-8e86-cb3cc1e21996
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261114T190000
 DTEND;TZID=Europe/Brussels:20261114T190000
-SUMMARY:
-DESCRIPTION:\n[LEDOUX] \nhttps://cinematek.be/2026-11-14-19-00/2026-11-14
+SUMMARY:Somniculus
+DESCRIPTION:Somniculus\nDirectors: Ali Cherri, Liban, France 2017\n[PLATEAU] couleur ⁄ 14' ⁄ ST: FR\nhttps://cinematek.be/2026-11-14-19-00/14-11-2026-trois-films-dali-cherri
 END:VEVENT
 BEGIN:VEVENT
-UID:7694ca3f-23b4-496a-ab68-783e13072542
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:ecc1302c-f49a-4763-a745-51fb9b53a2f1
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261114T200000
 DTEND;TZID=Europe/Brussels:20261114T200000
-SUMMARY:
-DESCRIPTION:\n[PLATEAU] \nhttps://cinematek.be/2026-11-14-20-00/2026-11-14
+SUMMARY:Les Cahiers Adjani
+DESCRIPTION:Les Cahiers Adjani\nDirectors: Cyril Brody, France 2025\n[LEDOUX] couleur ⁄ 86' ⁄ ST: EN\nhttps://cinematek.be/2026-11-14-20-00/14-11-2026-les-cahiers-adjani
 END:VEVENT
 BEGIN:VEVENT
-UID:9021d019-c2d2-4ecf-b12a-df2a66628d83
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
-DTSTART;TZID=Europe/Brussels:20261114T210000
-DTEND;TZID=Europe/Brussels:20261114T210000
-SUMMARY:
-DESCRIPTION:\n[LEDOUX] \nhttps://cinematek.be/2026-11-14-21-00/2026-11-14
+UID:f2994f08-0019-4bb5-8354-063fb11143e9
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261115T140000
+DTEND;TZID=Europe/Brussels:20261115T140000
+SUMMARY:PROJECTION + atelier famille
+DESCRIPTION:PROJECTION + atelier famille\n[PLATEAU] BAFF Kids ⁄ 90' ⁄ FR - NL ⁄   90 ⁄ €3.5\nhttps://cinematek.be/2026-11-15-14-00/15-11-2026-projection-family-workshop
 END:VEVENT
 BEGIN:VEVENT
-UID:a855e569-205d-4b4c-91b9-b61b4809b590
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
-DTSTART;TZID=Europe/Brussels:20261115T150000
-DTEND;TZID=Europe/Brussels:20261115T150000
-SUMMARY:
-DESCRIPTION:\n[LEDOUX] \nhttps://cinematek.be/2026-11-15-15-00/2026-11-15
+UID:e86031c7-64bb-443e-969b-b8f7923767ca
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261115T140000
+DTEND;TZID=Europe/Brussels:20261115T140000
+SUMMARY:Portrait of an Unknown Artist
+DESCRIPTION:Portrait of an Unknown Artist\nDirectors: Owen Gothill, Eli Gothill, Belgique 2025\n[LEDOUX] couleur ⁄ 25' ⁄ ST: FR\nhttps://cinematek.be/2026-11-15-14-00/15-11-2026-portrait-of-an-unknown-artist-marieke-doubts
 END:VEVENT
 BEGIN:VEVENT
-UID:c38f15ff-0028-42d7-aa6d-18865e2d710a
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
-DTSTART;TZID=Europe/Brussels:20261115T170000
-DTEND;TZID=Europe/Brussels:20261115T170000
-SUMMARY:
-DESCRIPTION:\n[LEDOUX] \nhttps://cinematek.be/2026-11-15-17-00/2026-11-15
+UID:01e4428e-568d-4d73-8348-4633260e1ab0
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
+DTSTART;TZID=Europe/Brussels:20261115T160000
+DTEND;TZID=Europe/Brussels:20261115T160000
+SUMMARY:Merci d’être venu
+DESCRIPTION:Merci d’être venu\nDirectors: Alain Cavalier, France 2026\n[LEDOUX] couleur ⁄ 82' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-11-15-16-00/15-11-2026-merci-detre-venu
 END:VEVENT
 BEGIN:VEVENT
-UID:15c2b18d-da84-4606-909e-94c49214845c
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:4d948b1d-f39d-497d-92fa-741aca7c0ecd
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261115T180000
 DTEND;TZID=Europe/Brussels:20261115T180000
 SUMMARY:Cambio de sexo
-DESCRIPTION:Je veux être femme ⁄ Change of Sex ⁄ Cambio de sexo\nDirectors: Vicente Aranda, Espagne 1977\nCast: Victoria Abril, Lou Castel, Fernando Sancho\n[PLATEAU] couleur ⁄ 113' ⁄ ST: NL - FR\nhttps://cinematek.be/2026-11-15-18-00/cambio-de-sexo
+DESCRIPTION:Change of Sex ⁄ Je veux être femme ⁄ Cambio de sexo\nDirectors: Vicente Aranda, Espagne 1977\nCast: Victoria Abril, Lou Castel, Fernando Sancho\n[PLATEAU] couleur ⁄ 113' ⁄ ST: NL - FR\nhttps://cinematek.be/2026-11-15-18-00/cambio-de-sexo
 END:VEVENT
 BEGIN:VEVENT
 UID:8f30a8ac-1b5a-4117-b506-52bdef778c16
@@ -2893,12 +2973,12 @@ SUMMARY:Au-delà des mots : le cinéma de Joachim Lafosse
 DESCRIPTION:Au-delà des mots : le cinéma de Joachim Lafosse\nDirectors: Luc Jabon, Belgique 2016\n[PLATEAU] couleur ⁄ 63' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-11-16-18-00/au-dela-des-mots-le-cinema-de-joachim-lafosse
 END:VEVENT
 BEGIN:VEVENT
-UID:c1410006-d046-4728-afca-821a07b7689f
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:d40ac054-9a26-47d9-a24a-a2a4501c3ba0
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261116T190000
 DTEND;TZID=Europe/Brussels:20261116T190000
 SUMMARY:Körkarlen
-DESCRIPTION:La Charrette fantôme ⁄ De spookkar ⁄ Körkarlen\nDirectors: Victor Sjöström, Suède 1921\nCast: Victor Sjöström, Hilda Borgström, Tore Svennberg\n[LEDOUX] NB ⁄ 85' ⁄ TIT: SV ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-11-16-19-00/korkarlen
+DESCRIPTION:De spookkar ⁄ La Charrette fantôme ⁄ Körkarlen\nDirectors: Victor Sjöström, Suède 1921\nCast: Victor Sjöström, Hilda Borgström, Tore Svennberg\n[LEDOUX] NB ⁄ 85' ⁄ TIT: SV ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-11-16-19-00/korkarlen
 END:VEVENT
 BEGIN:VEVENT
 UID:c56a1368-e42b-4210-bc87-ccc0b140abbd
@@ -2925,12 +3005,12 @@ SUMMARY:Erotikon
 DESCRIPTION:Vers le bonheur ⁄ Erotikon\nDirectors: Mauritz Stiller, Suède 1920\nCast: Tora Teje, Karin Molander, Anders de Wahl\n[PLATEAU] NB ⁄ 95' ⁄ TIT: SV ⁄ ST: FR - NL ⁄ PIANO\nhttps://cinematek.be/2026-11-17-18-00/erotikon
 END:VEVENT
 BEGIN:VEVENT
-UID:7700aca4-7949-4c49-b609-4b344c0c5d59
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:c6507291-ef30-4f36-9528-47e0ef692f7a
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261117T190000
 DTEND;TZID=Europe/Brussels:20261117T190000
 SUMMARY:Toute une nuit
-DESCRIPTION:Toute une nuit\nDirectors: Chantal Akerman, Belgique, France 1982\nCast: Aurore Clément, Tchéky Karyo, Angelo Abazoglou\n[LEDOUX] couleur ⁄ 91' ⁄ ST: NL\nhttps://cinematek.be/2026-11-17-19-00/toute-une-nuit
+DESCRIPTION:Toute une nuit\nDirectors: Chantal Akerman, Belgique, France 1982\nCast: Aurore Clément, Tchéky Karyo, Jan Decleir\n[LEDOUX] couleur ⁄ 91' ⁄ ST: NL\nhttps://cinematek.be/2026-11-17-19-00/toute-une-nuit
 END:VEVENT
 BEGIN:VEVENT
 UID:f4804e3a-d5a5-4c06-97ff-bae02e8b2517
@@ -2957,12 +3037,12 @@ SUMMARY:Egymásra nézve
 DESCRIPTION:Un autre regard ⁄ Egymásra nézve\nDirectors: Károly Makk, Hongrie 1982\nCast: Jadwiga Jankowska-Cieślak, Grażyna Szapołowska, Jozef Kroner\n[PLATEAU] couleur ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-18-18-00/egymasra-nezve
 END:VEVENT
 BEGIN:VEVENT
-UID:0ead1f55-4803-4e44-8576-1734c9d4dc5f
-DTSTAMP;TZID=Europe/Brussels:20260903T174401
+UID:c2b30956-4bd7-4ae5-a097-c003727a3c9c
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261118T193000
 DTEND;TZID=Europe/Brussels:20261118T193000
 SUMMARY:From the archives of NATO II
-DESCRIPTION:From the archives of NATO II\nDirectors: Unknown\n[LEDOUX] ST\nhttps://cinematek.be/2026-11-18-19-30/from-the-archives-of-nato-2
+DESCRIPTION:From the archives of NATO II\nDirectors: USA, EU 1954\n[LEDOUX] NB ⁄ 16' ⁄ V: EN ⁄ ST\nhttps://cinematek.be/2026-11-18-19-30/from-the-archives-of-nato-2
 END:VEVENT
 BEGIN:VEVENT
 UID:b0863637-e5a8-4bd9-854c-2d11db461b40
@@ -3101,12 +3181,12 @@ SUMMARY:Chikamatsu monogatari
 DESCRIPTION:Les Amants crucifiés ⁄ A Story from Chikamatsu ⁄ Chikamatsu monogatari\nDirectors: Kenji Mizoguchi, Japon 1954\nCast: Kazuo Hasegawa, Kyôko Kagawa, Yōko Minamida\n[LEDOUX] NB ⁄ 101' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-22-17-00/chikamatsu-monogatari
 END:VEVENT
 BEGIN:VEVENT
-UID:b0300326-5e59-4222-9a21-e36bcdcec081
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:4ae430a1-15d7-4205-b0e7-88dea47cb03b
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261122T180000
 DTEND;TZID=Europe/Brussels:20261122T180000
 SUMMARY:Actualités Mondiales n° 654
-DESCRIPTION:Wereld Aktualiteiten n° 654 / Actualités Mondiales n° 654\nDirectors: Lorem ipsum, Belgique 1944\n[PLATEAU] NB ⁄ 23' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-11-22-18-00/les-inconnus-dans-la-maison-actualites-mondiales-n-654
+DESCRIPTION:Wereld Aktualiteiten n° 654 / Actualités Mondiales n° 654\nDirectors: Belgique 1944\n[PLATEAU] NB ⁄ 23' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-11-22-18-00/les-inconnus-dans-la-maison-actualites-mondiales-n-654
 END:VEVENT
 BEGIN:VEVENT
 UID:3da78d2e-5d4a-4470-b977-fa5acacce420
@@ -3125,12 +3205,12 @@ SUMMARY:Au-delà des mots : le cinéma de Joachim Lafosse
 DESCRIPTION:Au-delà des mots : le cinéma de Joachim Lafosse\nDirectors: Luc Jabon, Belgique 2016\n[PLATEAU] couleur ⁄ 63' ⁄ V: FR ⁄ ST\nhttps://cinematek.be/2026-11-22-20-30/au-dela-des-mots-le-cinema-de-joachim-lafosse
 END:VEVENT
 BEGIN:VEVENT
-UID:c9c7c7a6-e86b-4e66-afe3-b0f4dd9f73aa
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:109882bb-b768-45d2-8b9c-faaba5265d6e
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261122T211500
 DTEND;TZID=Europe/Brussels:20261122T211500
-SUMMARY:Toeing the Line
-DESCRIPTION:Toeing the Line\nDirectors: Michael Ariel Rogosin, USA 2022\n[LEDOUX] NB + couleur ⁄ 18' ⁄ ST: FR\nhttps://cinematek.be/2026-11-22-21-15/lionel-rogosin-compil-9
+SUMMARY:Black Fantasy
+DESCRIPTION:Black Fantasy\nDirectors: Lionel Rogosin, USA 1972\n[LEDOUX] NB ⁄ 78' ⁄ ST: FR\nhttps://cinematek.be/2026-11-22-21-15/lionel-rogosin-compil-9
 END:VEVENT
 BEGIN:VEVENT
 UID:b6b3ba7a-ac95-4f7c-9d46-f86f3ba81d46
@@ -3157,12 +3237,12 @@ SUMMARY:Egymásra nézve
 DESCRIPTION:Un autre regard ⁄ Egymásra nézve\nDirectors: Károly Makk, Hongrie 1982\nCast: Jadwiga Jankowska-Cieślak, Grażyna Szapołowska, Jozef Kroner\n[PLATEAU] couleur ⁄ 108' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-23-20-00/egymasra-nezve
 END:VEVENT
 BEGIN:VEVENT
-UID:42d7a0cf-9fbf-4b27-ba04-89fc4cc50480
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:7bb224f6-f3b8-44fb-bfee-8a065474ffc6
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261123T211500
 DTEND;TZID=Europe/Brussels:20261123T211500
 SUMMARY:Faustrecht der Freiheit
-DESCRIPTION:Le Droit du plus fort ⁄ Fox and His Friends ⁄ Faustrecht der Freiheit\nDirectors: Rainer Werner Fassbinder, RFA 1975\nCast: Rainer Werner Fassbinder, Peter Chatel, Karlheinz Böhm\n[LEDOUX] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-23-21-15/faustrecht-der-freiheit
+DESCRIPTION:Fox and His Friends ⁄ Le Droit du plus fort ⁄ Faustrecht der Freiheit\nDirectors: Rainer Werner Fassbinder, RFA 1975\nCast: Rainer Werner Fassbinder, Peter Chatel, Karlheinz Böhm\n[LEDOUX] couleur ⁄ 123' ⁄ ST: FR - NL\nhttps://cinematek.be/2026-11-23-21-15/faustrecht-der-freiheit
 END:VEVENT
 BEGIN:VEVENT
 UID:1935a76a-67ba-4ff9-be76-acb8c3ed23ee
@@ -3341,12 +3421,12 @@ SUMMARY:Elvira Notari: Beyond Silence
 DESCRIPTION:Elvira Notari: Beyond Silence\nDirectors: Valerio Ciriaci, Italie, USA 2025\n[LEDOUX] couleur ⁄ 90' ⁄ ST: EN\nhttps://cinematek.be/2026-11-29-17-00/elvira-notari-beyond-silence
 END:VEVENT
 BEGIN:VEVENT
-UID:e334657d-5a90-47e2-8010-2116ff6fa88c
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:c71fd71b-db7d-4fa9-b651-47912ddfb8ac
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261129T180000
 DTEND;TZID=Europe/Brussels:20261129T180000
 SUMMARY:Belga Actualités n° 65
-DESCRIPTION:Belga Nieuws n° 65 / Belga Actualités n° 65\nDirectors: Lorem ipsum, Belgique 1944\n[PLATEAU] NB ⁄ V: NL ⁄ ST\nhttps://cinematek.be/2026-11-29-18-00/der-postmeister-belga-actualites-n-65
+DESCRIPTION:Belga Nieuws n° 65 / Belga Actualités n° 65\nDirectors: Belgique 1944\n[PLATEAU] NB ⁄ V: NL ⁄ ST\nhttps://cinematek.be/2026-11-29-18-00/der-postmeister-belga-actualites-n-65
 END:VEVENT
 BEGIN:VEVENT
 UID:d2ea220c-a6bd-4f78-8e75-ad0e71b4b99e
@@ -3357,12 +3437,12 @@ SUMMARY:La festa della SS. Assunta in Avellino + La festa della Madonna della Li
 DESCRIPTION:La festa della SS. Assunta in Avellino + La festa della Madonna della Libera in Trevico\nDirectors: Elvira Notari, Italie 1932\n[LEDOUX] NB ⁄ 15' ⁄ TIT: EN ⁄ ST:  — ⁄ PIANO\nhttps://cinematek.be/2026-11-29-19-15/vues-davellino-et-de-trevico-a-santanotte
 END:VEVENT
 BEGIN:VEVENT
-UID:0e8468ba-75ed-4f77-aad2-3fae8dbac9a7
-DTSTAMP;TZID=Europe/Brussels:20260826T162840
+UID:6c8c9f2c-84f2-4152-8500-1942a049b6eb
+DTSTAMP;TZID=Europe/Brussels:20261109T162950
 DTSTART;TZID=Europe/Brussels:20261129T203000
 DTEND;TZID=Europe/Brussels:20261129T203000
 SUMMARY:Actualités Mondiales n° 654
-DESCRIPTION:Wereld Aktualiteiten n° 654 / Actualités Mondiales n° 654\nDirectors: Lorem ipsum, Belgique 1944\n[PLATEAU] NB ⁄ 23' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-11-29-20-30/les-inconnus-dans-la-maison-actualites-mondiales-n-654
+DESCRIPTION:Wereld Aktualiteiten n° 654 / Actualités Mondiales n° 654\nDirectors: Belgique 1944\n[PLATEAU] NB ⁄ 23' ⁄ V: FR - NL ⁄ ST\nhttps://cinematek.be/2026-11-29-20-30/les-inconnus-dans-la-maison-actualites-mondiales-n-654
 END:VEVENT
 BEGIN:VEVENT
 UID:ea449f67-3f35-49e9-9024-59411232b5ac
